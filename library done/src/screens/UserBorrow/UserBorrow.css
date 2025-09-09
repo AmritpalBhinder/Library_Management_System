@@ -1,0 +1,100 @@
+.borrowed-container {
+  width: 95%;
+  max-width: 1200px;
+  margin: 30px auto;
+  padding: 20px;
+  background: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  overflow-x: auto; /* horizontal scroll for small screens */
+}
+
+.borrowed-container h2 {
+  text-align: center;
+  font-size: 26px;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.borrowed-table {
+  width: 100%;
+  min-width: 100%; /* take full container width */
+  border-collapse: collapse;
+  font-size: 15px;
+  table-layout: auto; /* ensures flexible columns */
+}
+
+.thead {
+  background: #7d5a08;
+  color: #fff;
+}
+
+.borrowed-table th,
+.borrowed-table td {
+  padding: 12px 15px;
+  text-align: center;
+  border-bottom: 1px solid #ddd;
+  word-wrap: break-word; /* avoid overflow text */
+}
+
+.borrowed-table tr:hover {
+  background: #f9f9f9;
+  transition: 0.3s;
+}
+
+.borrowed-table td {
+  color: #444;
+}
+
+/* Status badge */
+.status-returned {
+  background: #28a745;
+  color: #fff;
+  padding: 4px 10px;
+  border-radius: 8px;
+  font-size: 13px;
+  font-weight: bold;
+}
+
+.status-pending {
+  background: #dc3545;
+  color: #fff;
+  padding: 4px 10px;
+  border-radius: 8px;
+  font-size: 13px;
+  font-weight: bold;
+}
+
+/* Empty message */
+.no-data {
+  text-align: center;
+  font-size: 16px;
+  color: #777;
+  padding: 20px;
+}
+
+/* Responsive adjustments */
+@media (max-width: 1024px) {
+  .borrowed-table th,
+  .borrowed-table td {
+    padding: 10px;
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 768px) {
+  .borrowed-table {
+    font-size: 13px;
+  }
+  .borrowed-container h2 {
+    font-size: 22px;
+  }
+}
+
+@media (max-width: 480px) {
+  .borrowed-table th,
+  .borrowed-table td {
+    padding: 8px;
+    font-size: 12px;
+  }
+}

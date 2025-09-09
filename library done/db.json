@@ -1,0 +1,2327 @@
+{
+  "books": [
+    {
+      "id": "2",
+      "Year": 2017,
+      "title": "The Silent Witness",
+      "author": "Anita Nair",
+      "isAvailable": false,
+      "isbn": [
+        "978-0-141-23456-0",
+        "978-0-141-23456-1",
+        "978-0-141-23456-2",
+        "978-0-141-23456-3",
+        "978-0-141-23456-4"
+      ],
+      "rent": 15,
+      "genre": "Psychological Thriller",
+      "cover": "https://covers.openlibrary.org/b/id/10523315-L.jpg",
+      "description": "Anita Nair’s 'The Silent Witness' is a gripping psychological thriller that examines memory, guilt, and the fragile line between truth and perception. The story follows a young woman who becomes the only witness to a violent crime, but her fractured recollections leave her questioning her own mind. As the investigation deepens, the novel reveals dark family secrets, manipulation, and the weight of suppressed trauma. Nair masterfully blends suspense with emotional depth, creating an atmosphere of unease and mistrust. 'The Silent Witness' challenges readers to consider how much of what we remember is real, and how dangerous silence can become when justice depends on it.",
+      "rating": 4.5
+    },
+    {
+      "id": "3",
+      "Year": 2018,
+      "title": "Echoes of the Past",
+      "author": "Vikram Chandra",
+      "isAvailable": true,
+      "isbn": [
+        "978-0-452-21346-0",
+        "978-0-452-21346-1",
+        "978-0-452-21346-2",
+        "978-0-452-21346-3",
+        "978-0-452-21346-4"
+      ],
+      "rent": 12,
+      "genre": "Historical Fiction",
+      "cover": "https://covers.openlibrary.org/b/id/11153245-L.jpg",
+      "description": "Vikram Chandra’s 'Echoes of the Past' delves into India’s colonial history, weaving together personal stories and historical events with lyrical prose. The novel explores the lives of three generations caught in the upheaval of change, loss, and resilience. Chandra paints vivid pictures of cultural clashes, forbidden love, and the burden of legacy. Through its intricate narrative, the book highlights the struggles of individuals against the larger tide of history. 'Echoes of the Past' is not just a tale of survival but a meditation on memory and how the past continues to shape the present in powerful and often unexpected ways.",
+      "rating": 4.6
+    },
+    {
+      "id": "4",
+      "Year": 2019,
+      "title": "Shadows of the Mind",
+      "author": "Kiran Desai",
+      "isAvailable": true,
+      "isbn": [
+        "978-0-385-44123-0",
+        "978-0-385-44123-1",
+        "978-0-385-44123-2",
+        "978-0-385-44123-3",
+        "978-0-385-44123-4"
+      ],
+      "rent": 10,
+      "genre": "Literary Fiction",
+      "cover": "https://covers.openlibrary.org/b/id/9876543-L.jpg",
+      "description": "Kiran Desai’s 'Shadows of the Mind' is an introspective novel that examines the silent battles waged within human consciousness. The story traces the life of a young man struggling with mental health issues, his family’s silence, and the societal stigma that compounds his suffering. Desai’s narrative is both tender and unsettling, revealing how inner turmoil can transform relationships and alter life trajectories. With vivid imagery and deep psychological insight, the novel creates a poignant portrait of resilience in the face of isolation. It is a reminder that the mind’s shadows are often as real and as powerful as the physical world.",
+      "rating": 4.3
+    },
+    {
+      "id": "5",
+      "Year": 2016,
+      "title": "Beneath the Surface",
+      "author": "Arundhati Roy",
+      "isAvailable": false,
+      "isbn": [
+        "978-0-743-21234-0",
+        "978-0-743-21234-1",
+        "978-0-743-21234-2",
+        "978-0-743-21234-3",
+        "978-0-743-21234-4"
+      ],
+      "rent": 13,
+      "genre": "Drama",
+      "cover": "https://covers.openlibrary.org/b/id/10443212-L.jpg",
+      "description": "Arundhati Roy’s 'Beneath the Surface' explores the fragile line between truth and lies in a family haunted by buried secrets. Set against the backdrop of Kerala’s lush landscapes, the story unfolds as a young woman returns home, only to uncover truths that shake her beliefs. Roy’s lyrical storytelling draws readers into a world of fractured relationships, hidden betrayals, and the inevitable confrontation with the past. The novel is both intimate and sweeping, blending personal struggles with larger societal questions. 'Beneath the Surface' captures the complexity of human emotions and the often painful necessity of facing one’s history.",
+      "rating": 4.4
+    },
+    {
+      "id": "6",
+      "Year": 2020,
+      "title": "The Last Horizon",
+      "author": "Amitav Ghosh",
+      "isAvailable": true,
+      "isbn": [
+        "978-0-316-23450-0",
+        "978-0-316-23450-1",
+        "978-0-316-23450-2",
+        "978-0-316-23450-3",
+        "978-0-316-23450-4"
+      ],
+      "rent": 14,
+      "genre": "Adventure",
+      "cover": "https://covers.openlibrary.org/b/id/7654321-L.jpg",
+      "description": "Amitav Ghosh’s 'The Last Horizon' is an epic adventure that traverses continents, cultures, and conflicts. The story follows explorers who chase an elusive horizon that promises wealth and knowledge but brings peril and betrayal. Ghosh’s narrative blends historical detail with thrilling action, weaving in themes of colonialism, survival, and human ambition. The vast landscapes described in the book—from dense forests to treacherous seas—become characters in themselves. 'The Last Horizon' is a masterclass in storytelling, immersing readers in the age of discovery while reminding them of the fragile line between curiosity and conquest.",
+      "rating": 4.8
+    },
+    {
+      "id": "8",
+      "Year": 2021,
+      "title": "City of Ashes",
+      "author": "Chitra Banerjee Divakaruni",
+      "isAvailable": false,
+      "isbn": [
+        "978-0-061-23450-0",
+        "978-0-061-23450-1",
+        "978-0-061-23450-2",
+        "978-0-061-23450-3",
+        "978-0-061-23450-4"
+      ],
+      "rent": 16,
+      "genre": "Fantasy",
+      "cover": "https://covers.openlibrary.org/b/id/5432167-L.jpg",
+      "description": "Chitra Banerjee Divakaruni’s 'City of Ashes' is a dazzling fantasy novel that combines Indian mythology with contemporary storytelling. The novel follows a heroine chosen by fate to save a city consumed by fire and shadows. Divakaruni skillfully blends myth, magic, and modern-day struggles, creating a vivid world that is both familiar and extraordinary. Themes of sacrifice, destiny, and resilience drive the narrative, while lush descriptions transport readers into enchanted landscapes. 'City of Ashes' is an immersive tale that celebrates courage and the enduring power of stories passed down through generations.",
+      "rating": 4.6
+    },
+    {
+      "id": "9",
+      "Year": 2013,
+      "title": "The Forgotten Song",
+      "author": "Salman Rushdie",
+      "isAvailable": true,
+      "isbn": [
+        "978-0-123-45678-0",
+        "978-0-123-45678-1",
+        "978-0-123-45678-2",
+        "978-0-123-45678-3",
+        "978-0-123-45678-4"
+      ],
+      "rent": 12,
+      "genre": "Magical Realism",
+      "cover": "https://covers.openlibrary.org/b/id/6543219-L.jpg",
+      "description": "Salman Rushdie’s 'The Forgotten Song' is a spellbinding tale that blends magical realism with political allegory. The novel tells the story of a hidden melody that holds the power to change destinies, pursued by both tyrants and dreamers. Rushdie’s vibrant language and imaginative storytelling explore themes of memory, oppression, and the redemptive force of art. The novel’s layered narrative shifts between myth and modern reality, drawing readers into a world where the boundaries between the two blur seamlessly. 'The Forgotten Song' is a celebration of creativity and resilience in the face of silence and control.",
+      "rating": 4.7
+    },
+    {
+      "id": "10",
+      "Year": 2012,
+      "title": "The Fractured Mirror",
+      "author": "Shashi patel",
+      "isAvailable": false,
+      "isbn": [
+        "978-0-141-98765-0",
+        "978-0-141-98765-1",
+        "978-0-141-98765-2",
+        "978-0-141-98765-3",
+        "978-0-141-98765-4"
+      ],
+      "rent": 10,
+      "genre": "Political Satire",
+      "cover": "https://covers.openlibrary.org/b/id/8765432-L.jpg",
+      "description": "Shashi Tharoor’s 'The Fractured Mirror' is a biting political satire that dissects the contradictions of modern democracy. Through wit and irony, Tharoor portrays a nation grappling with corruption, ambition, and the ever-shifting landscape of public opinion. The novel uses allegorical characters and absurd situations to expose the fragile foundations of governance and the fickleness of power. 'The Fractured Mirror' entertains while provoking thought, offering a sharp commentary on the state of politics and the role of citizens in shaping society. It is as humorous as it is sobering, reminding readers of the price of complacency.",
+      "rating": 4.1
+    },
+    {
+      "id": "11",
+      "Year": 2016,
+      "title": "Whispers of the Valley-2",
+      "author": "Ruskin Bond-2",
+      "isAvailable": true,
+      "isbn": [
+        "978-0-321-56711-0",
+        "978-0-321-56711-1",
+        "978-0-321-56711-2",
+        "978-0-321-56711-3",
+        "978-0-321-56711-4"
+      ],
+      "rent": "14",
+      "genre": "Short Stories",
+      "cover": "https://covers.openlibrary.org/b/id/9876123-L.jpg",
+      "description": "Ruskin Bond’s 'Whispers of the Valley' is a heartwarming collection of short stories set in the serene hills of Mussoorie. Through his gentle storytelling, Bond captures the everyday magic of village life, childhood innocence, and the beauty of nature. Each tale is a window into a simpler time, where the rhythm of the seasons dictated life and small joys held great meaning. With warmth and nostalgia, Bond transports readers into a world of charm and simplicity. The collection is both soothing and thought-provoking, offering a reminder of the quiet power of ordinary moments.",
+      "rating": 4.4
+    },
+    {
+      "id": "12",
+      "Year": 2018,
+      "title": "The Burning Sky",
+      "author": "Neel Mukherjee",
+      "isAvailable": false,
+      "isbn": [
+        "978-0-141-87612-0",
+        "978-0-141-87612-1",
+        "978-0-141-87612-2",
+        "978-0-141-87612-3",
+        "978-0-141-87612-4"
+      ],
+      "rent": 13,
+      "genre": "Historical Drama",
+      "cover": "https://covers.openlibrary.org/b/id/10654321-L.jpg",
+      "description": "Neel Mukherjee’s 'The Burning Sky' is a sweeping historical drama that portrays the turbulence of pre-independence India. Through the lives of ordinary families entangled in extraordinary times, Mukherjee illustrates the impact of colonialism, resistance, and personal sacrifice. The novel juxtaposes the intimate struggles of individuals with the vast canvas of political upheaval, creating a narrative that is both personal and epic. With lyrical prose and unflinching honesty, 'The Burning Sky' explores identity, freedom, and the cost of change. It is a poignant reminder of the resilience of the human spirit in the face of oppression.",
+      "rating": 4.5
+    },
+    {
+      "id": "13",
+      "Year": 2021,
+      "title": "Threads of Destiny",
+      "author": "Anuja Chauhan",
+      "isAvailable": true,
+      "isbn": [
+        "978-0-394-21234-0",
+        "978-0-394-21234-1",
+        "978-0-394-21234-2",
+        "978-0-394-21234-3",
+        "978-0-394-21234-4"
+      ],
+      "rent": 14,
+      "genre": "Romantic Drama",
+      "cover": "https://covers.openlibrary.org/b/id/11234567-L.jpg",
+      "description": "Anuja Chauhan’s 'Threads of Destiny' is a delightful romantic drama that blends humor, charm, and heartfelt emotions. The novel follows two unlikely lovers whose fates intertwine amidst family expectations, societal pressures, and the unpredictability of life. Chauhan’s witty dialogues and relatable characters bring the story alive, making it both entertaining and thought-provoking. The book explores themes of love, destiny, and the courage to follow one’s heart, even when the odds are stacked against it. 'Threads of Destiny' is a modern love story that resonates deeply with readers seeking warmth and laughter.",
+      "rating": 4.6
+    },
+    {
+      "id": "14",
+      "Year": 2017,
+      "title": "Beyond the Horizon",
+      "author": "Chetan Bhagat",
+      "isAvailable": false,
+      "isbn": [
+        "978-0-385-67124-0",
+        "978-0-385-67124-1",
+        "978-0-385-67124-2",
+        "978-0-385-67124-3",
+        "978-0-385-67124-4"
+      ],
+      "rent": 10,
+      "genre": "Contemporary Fiction",
+      "cover": "https://covers.openlibrary.org/b/id/11321234-L.jpg",
+      "description": "Chetan Bhagat’s 'Beyond the Horizon' explores the journey of self-discovery, ambition, and the challenges of modern relationships. The novel follows a young protagonist torn between personal dreams and familial duties, reflecting the dilemmas faced by contemporary Indian youth. Bhagat’s straightforward prose and relatable scenarios make the story accessible, while the emotional depth adds resonance. 'Beyond the Horizon' addresses themes of love, career, and the search for meaning in a rapidly changing society. It is an engaging narrative that strikes a chord with readers navigating similar crossroads in their own lives.",
+      "rating": 3.9
+    },
+    {
+      "id": "15",
+      "Year": 2014,
+      "title": "Winds of Change",
+      "author": "Aravind Adiga",
+      "isAvailable": true,
+      "isbn": [
+        "978-0-743-19876-0",
+        "978-0-743-19876-1",
+        "978-0-743-19876-2",
+        "978-0-743-19876-3",
+        "978-0-743-19876-4"
+      ],
+      "rent": 12,
+      "genre": "Social Commentary",
+      "cover": "https://covers.openlibrary.org/b/id/8765123-L.jpg",
+      "description": "Aravind Adiga’s 'Winds of Change' is a bold exploration of class struggles, political corruption, and the dreams of a new India. The novel paints a vivid portrait of characters grappling with inequality, ambition, and the fight for dignity. Adiga’s incisive storytelling uncovers uncomfortable truths about society while weaving an engaging narrative filled with suspense and emotion. The book challenges readers to reflect on progress, morality, and the sacrifices demanded by change. 'Winds of Change' is a thought-provoking work that highlights the complexities of transformation in a rapidly modernizing nation.",
+      "rating": 4.3
+    },
+    {
+      "id": "16",
+      "Year": 2013,
+      "title": "The Sapphire Secret",
+      "author": "Ashwin Sanghi",
+      "isAvailable": true,
+      "isbn": [
+        "978-0-399-21345-0",
+        "978-0-399-21345-1",
+        "978-0-399-21345-2",
+        "978-0-399-21345-3",
+        "978-0-399-21345-4"
+      ],
+      "rent": 11,
+      "genre": "Mystery",
+      "cover": "https://covers.openlibrary.org/b/id/7654320-L.jpg",
+      "description": "Ashwin Sanghi’s 'The Sapphire Secret' is a gripping mystery that delves into ancient legends, hidden treasures, and modern conspiracies. The novel follows a determined protagonist who unravels cryptic clues leading to a powerful secret guarded for centuries. Sanghi’s meticulous research and fast-paced narrative keep readers on edge, blending mythology with contemporary intrigue. 'The Sapphire Secret' is both an intellectual puzzle and a thrilling adventure, offering a story that entertains while making readers question the thin line between fact and fiction.",
+      "rating": 4.5
+    },
+    {
+      "id": "17",
+      "Year": 2020,
+      "title": "The Desert Rose",
+      "author": "Perumal Murugan",
+      "isAvailable": false,
+      "isbn": [
+        "978-0-316-54321-0",
+        "978-0-316-54321-1",
+        "978-0-316-54321-2",
+        "978-0-316-54321-3",
+        "978-0-316-54321-4"
+      ],
+      "rent": 14,
+      "genre": "Drama",
+      "cover": "https://covers.openlibrary.org/b/id/11239876-L.jpg",
+      "description": "Perumal Murugan’s 'The Desert Rose' is a poignant drama set in a drought-stricken village, exploring themes of survival, resilience, and the unyielding human spirit. The story follows families torn apart by scarcity, as bonds of love and loyalty are tested against harsh realities. Murugan’s evocative prose captures the desolation of the land and the quiet strength of its people. 'The Desert Rose' is a deeply human story, highlighting the beauty and pain of endurance in the face of overwhelming odds.",
+      "rating": 4.6
+    },
+    {
+      "id": "18",
+      "Year": 2012,
+      "title": "The Crystal Veil",
+      "author": "Rohinton Mistry",
+      "isAvailable": true,
+      "isbn": [
+        "978-0-743-56789-0",
+        "978-0-743-56789-1",
+        "978-0-743-56789-2",
+        "978-0-743-56789-3",
+        "978-0-743-56789-4"
+      ],
+      "rent": 10,
+      "genre": "Literary Fiction",
+      "cover": "https://covers.openlibrary.org/b/id/5567890-L.jpg",
+      "description": "Rohinton Mistry’s 'The Crystal Veil' is a masterful novel exploring the fragile nature of trust, family, and tradition. The story revolves around a Parsi household grappling with generational conflicts and the desire for independence. Mistry’s nuanced characters embody the push and pull of cultural identity in a changing world. With elegant prose and deep emotional resonance, 'The Crystal Veil' captures the beauty and pain of clinging to heritage while striving for progress. It is a work of quiet power that lingers in the reader’s mind long after the final page.",
+      "rating": 4.4
+    },
+    {
+      "id": "19",
+      "Year": 2022,
+      "title": "Moonlight Over Mumbai",
+      "author": "Sujata Massey",
+      "isAvailable": false,
+      "isbn": [
+        "978-0-452-67890-0",
+        "978-0-452-67890-1",
+        "978-0-452-67890-2",
+        "978-0-452-67890-3",
+        "978-0-452-67890-4"
+      ],
+      "rent": 15,
+      "genre": "Romantic Suspense",
+      "cover": "https://covers.openlibrary.org/b/id/11987654-L.jpg",
+      "description": "Sujata Massey’s 'Moonlight Over Mumbai' is a captivating romantic suspense novel set in the bustling city of dreams. The story follows a journalist entangled in a dangerous conspiracy while navigating a passionate romance that challenges her loyalties. Massey’s blend of atmospheric setting, fast-paced plot, and emotional depth makes the novel both thrilling and heartfelt. Themes of love, danger, and the search for truth intertwine seamlessly. 'Moonlight Over Mumbai' is a compelling read for fans of suspense with a touch of romance.",
+      "rating": 4.7
+    },
+    {
+      "id": "20",
+      "Year": 2019,
+      "title": "The Iron Fortress",
+      "author": "Devdutt Pattanaik",
+      "isAvailable": true,
+      "isbn": [
+        "978-0-385-76543-0",
+        "978-0-385-76543-1",
+        "978-0-385-76543-2",
+        "978-0-385-76543-3",
+        "978-0-385-76543-4"
+      ],
+      "rent": 13,
+      "genre": "Mythology",
+      "cover": "https://covers.openlibrary.org/b/id/10234567-L.jpg",
+      "description": "Devdutt Pattanaik’s 'The Iron Fortress' reimagines a legendary myth in a modern context, blending philosophy, history, and timeless wisdom. The novel explores the rise and fall of a mythical city, where ambition and power clash with tradition and morality. Pattanaik’s accessible style and deep insights into Indian mythology make the book both entertaining and thought-provoking. 'The Iron Fortress' invites readers to reflect on the cyclical nature of history and the enduring relevance of ancient stories in contemporary life.",
+      "rating": 4.5
+    },
+    {
+      "id": "21",
+      "Year": 2016,
+      "title": "The Silent River",
+      "author": "Amitav Ghosh",
+      "isAvailable": true,
+      "isbn": [
+        "978-0-385-72111-0",
+        "978-0-385-72111-1",
+        "978-0-385-72111-2",
+        "978-0-385-72111-3",
+        "978-0-385-72111-4"
+      ],
+      "rent": 12,
+      "genre": "Historical Fiction",
+      "cover": "https://covers.openlibrary.org/b/id/11235678-L.jpg",
+      "description": "Amitav Ghosh’s 'The Silent River' is a sweeping tale that interlaces history, migration, and the power of nature. The story follows generations of a family living by a river that has been both a source of sustenance and destruction. Ghosh explores colonial history, environmental changes, and human resilience with his signature lyrical style. The novel highlights the deep bond between people and their environment, reminding readers of the fragile balance that sustains life. Rich in detail and atmosphere, 'The Silent River' is a testament to endurance and cultural memory.",
+      "rating": 4.6
+    },
+    {
+      "id": "22",
+      "Year": 2017,
+      "title": "Shadows of the Banyan",
+      "author": "Anindita Ghose",
+      "isAvailable": false,
+      "isbn": [
+        "978-0-141-87613-0",
+        "978-0-141-87613-1",
+        "978-0-141-87613-2",
+        "978-0-141-87613-3",
+        "978-0-141-87613-4"
+      ],
+      "rent": 11,
+      "genre": "Family Saga",
+      "cover": "https://covers.openlibrary.org/b/id/11765432-L.jpg",
+      "description": "Anindita Ghose’s 'Shadows of the Banyan' is a rich family saga that unfolds under the canopy of a centuries-old banyan tree, symbolizing legacy and endurance. The novel portrays generational conflicts, hidden secrets, and the unspoken bonds that tie families together. Ghose’s narrative blends poetic imagery with sharp insights into human emotions, making it a moving exploration of love, betrayal, and reconciliation. With its evocative setting and multilayered storytelling, 'Shadows of the Banyan' resonates with readers who value depth and emotional truth.",
+      "rating": 4.3
+    },
+    {
+      "id": "23",
+      "Year": 2018,
+      "title": "Echoes of the Forgotten",
+      "author": "Vikram Chandra",
+      "isAvailable": true,
+      "isbn": [
+        "978-0-394-21235-0",
+        "978-0-394-21235-1",
+        "978-0-394-21235-2",
+        "978-0-394-21235-3",
+        "978-0-394-21235-4"
+      ],
+      "rent": 14,
+      "genre": "Mystery Thriller",
+      "cover": "https://covers.openlibrary.org/b/id/11567890-L.jpg",
+      "description": "Vikram Chandra’s 'Echoes of the Forgotten' is a fast-paced mystery thriller that blends crime investigation with the haunting echoes of history. A detective unravels a web of secrets connected to long-forgotten colonial archives, revealing truths that challenge modern power structures. Chandra’s intricate plotting and sharp dialogue keep readers on the edge of their seats. The novel is both an exhilarating crime story and a meditation on how the past continues to shape the present. 'Echoes of the Forgotten' is a riveting experience for fans of suspense and history.",
+      "rating": 4.7
+    },
+    {
+      "id": "24",
+      "Year": 2019,
+      "title": "Beneath the Mango Tree",
+      "author": "Kiran Desai",
+      "isAvailable": false,
+      "isbn": [
+        "978-0-743-19877-0",
+        "978-0-743-19877-1",
+        "978-0-743-19877-2",
+        "978-0-743-19877-3",
+        "978-0-743-19877-4"
+      ],
+      "rent": 13,
+      "genre": "Literary Fiction",
+      "cover": "https://covers.openlibrary.org/b/id/11345789-L.jpg",
+      "description": "Kiran Desai’s 'Beneath the Mango Tree' is a poignant literary novel exploring love, loss, and belonging. Set in a small village overshadowed by its majestic mango orchards, the story weaves together the lives of people connected by shared memories and unspoken desires. Desai’s lyrical prose captures the rhythms of rural India while addressing universal themes of longing and resilience. The mango tree becomes a powerful metaphor for roots and renewal, grounding the narrative in both beauty and sorrow. A tender and deeply human story.",
+      "rating": 4.5
+    },
+    {
+      "id": "25",
+      "Year": 2020,
+      "title": "The Last Monsoon",
+      "author": "Akhil Sharma",
+      "isAvailable": true,
+      "isbn": [
+        "978-0-399-21346-0",
+        "978-0-399-21346-1",
+        "978-0-399-21346-2",
+        "978-0-399-21346-3",
+        "978-0-399-21346-4"
+      ],
+      "rent": 15,
+      "genre": "Drama",
+      "cover": "https://covers.openlibrary.org/b/id/11432109-L.jpg",
+      "description": "Akhil Sharma’s 'The Last Monsoon' is a deeply emotional drama that unfolds against the backdrop of a devastating flood. The novel follows multiple characters whose lives intersect in unexpected ways as they struggle to survive and rebuild. Sharma’s precise, empathetic storytelling captures both the intensity of disaster and the quiet dignity of those affected. Themes of loss, resilience, and hope flow like the floodwaters through the narrative, leaving readers moved and reflective. 'The Last Monsoon' is a powerful portrayal of human endurance in the face of calamity.",
+      "rating": 4.6
+    },
+    {
+      "id": "26",
+      "Year": 2021,
+      "title": "Songs of the Sparrow",
+      "author": "Jhumpa Lahiri",
+      "isAvailable": false,
+      "isbn": [
+        "978-0-743-56780-0",
+        "978-0-743-56780-1",
+        "978-0-743-56780-2",
+        "978-0-743-56780-3",
+        "978-0-743-56780-4"
+      ],
+      "rent": 12,
+      "genre": "Short Stories",
+      "cover": "https://covers.openlibrary.org/b/id/11654321-L.jpg",
+      "description": "Jhumpa Lahiri’s 'Songs of the Sparrow' is a delicate collection of short stories that capture fleeting moments of love, alienation, and rediscovery. Each story is like a song—brief yet resonant—reflecting the struggles of characters caught between cultures and identities. Lahiri’s mastery of subtle emotional expression shines through, offering readers an intimate look at the human heart. The sparrow, a symbol of fragility and resilience, ties the stories together, creating a tapestry of emotions. This collection is both lyrical and profound, leaving a lasting impression.",
+      "rating": 4.4
+    },
+    {
+      "id": "27",
+      "Year": 2014,
+      "title": "The Fractured Mirror",
+      "author": "Manju Kapur",
+      "isAvailable": true,
+      "isbn": [
+        "978-0-452-67891-0",
+        "978-0-452-67891-1",
+        "978-0-452-67891-2",
+        "978-0-452-67891-3",
+        "978-0-452-67891-4"
+      ],
+      "rent": 11,
+      "genre": "Psychological Fiction",
+      "cover": "https://covers.openlibrary.org/b/id/11876543-L.jpg",
+      "description": "Manju Kapur’s 'The Fractured Mirror' is a psychological exploration of identity, memory, and the fractured self. The story follows a protagonist who must confront buried traumas when a chance encounter brings the past crashing into the present. Kapur’s nuanced writing exposes the fragility of perception and the complex interplay between truth and illusion. The mirror becomes a recurring motif, symbolizing both reflection and distortion. 'The Fractured Mirror' is a thought-provoking novel that lingers long after the final page.",
+      "rating": 4.2
+    },
+    {
+      "id": "28",
+      "Year": 2013,
+      "title": "Lotus in the Storm",
+      "author": "Shashi Tharoor",
+      "isAvailable": false,
+      "isbn": [
+        "978-0-385-76544-0",
+        "978-0-385-76544-1",
+        "978-0-385-76544-2",
+        "978-0-385-76544-3",
+        "978-0-385-76544-4"
+      ],
+      "rent": 13,
+      "genre": "Political Fiction",
+      "cover": "https://covers.openlibrary.org/b/id/11987655-L.jpg",
+      "description": "Shashi Tharoor’s 'Lotus in the Storm' is a sharp political novel that critiques the turbulence of democracy and governance in modern India. The narrative intertwines the personal ambitions of politicians with the struggles of ordinary citizens, revealing the complex dance between power and morality. Tharoor’s witty and insightful prose offers both entertainment and reflection, urging readers to question the nature of leadership. The lotus, a national symbol, becomes a powerful metaphor for resilience amidst chaos. A timely and engaging read.",
+      "rating": 4.1
+    },
+    {
+      "id": "29",
+      "Year": 2015,
+      "title": "The Hidden Flame",
+      "author": "Arundhati Roy",
+      "isAvailable": true,
+      "isbn": [
+        "978-0-743-21234-0",
+        "978-0-743-21234-1",
+        "978-0-743-21234-2",
+        "978-0-743-21234-3",
+        "978-0-743-21234-4"
+      ],
+      "rent": 14,
+      "genre": "Activist Literature",
+      "cover": "https://covers.openlibrary.org/b/id/11345678-L.jpg",
+      "description": "Arundhati Roy’s 'The Hidden Flame' is a powerful novel blending activism, environmentalism, and human rights into a searing narrative. The story follows activists who risk everything to protect their land and community from exploitation. Roy’s prose is fiery yet poetic, illuminating the intersection of personal sacrifice and collective struggle. The flame symbolizes both destruction and the light of resistance. 'The Hidden Flame' challenges readers to confront uncomfortable truths while inspiring hope for change. A bold and uncompromising work.",
+      "rating": 4.8
+    },
+    {
+      "id": "30",
+      "Year": 2022,
+      "title": "Ocean of Stars",
+      "author": "Chitra Banerjee Divakaruni",
+      "isAvailable": false,
+      "isbn": [
+        "978-0-321-56712-0",
+        "978-0-321-56712-1",
+        "978-0-321-56712-2",
+        "978-0-321-56712-3",
+        "978-0-321-56712-4"
+      ],
+      "rent": 15,
+      "genre": "Fantasy",
+      "cover": "https://covers.openlibrary.org/b/id/11765430-L.jpg",
+      "description": "Chitra Banerjee Divakaruni’s 'Ocean of Stars' is a mesmerizing fantasy that combines mythology, magic, and adventure. The novel follows a young heroine who embarks on a perilous journey across realms filled with celestial wonders and dark dangers. Divakaruni’s lush prose and imaginative world-building create a dazzling landscape where destiny is written in the stars. Themes of courage, sacrifice, and self-discovery lie at the heart of the story. 'Ocean of Stars' is a breathtaking tale that enchants readers of all ages.",
+      "rating": 4.7
+    },
+    {
+      "id": "31",
+      "Year": 2014,
+      "title": "Whispers of the Desert",
+      "author": "Kamila Shamsie",
+      "isAvailable": true,
+      "isbn": [
+        "978-0-385-91131-0",
+        "978-0-385-91131-1",
+        "978-0-385-91131-2",
+        "978-0-385-91131-3",
+        "978-0-385-91131-4"
+      ],
+      "rent": 12,
+      "genre": "Historical Fiction",
+      "cover": "https://covers.openlibrary.org/b/id/11245678-L.jpg",
+      "description": "Kamila Shamsie’s 'Whispers of the Desert' explores the stories of a nomadic family navigating survival, identity, and heritage in the harsh but beautiful desert landscape. The novel weaves together tales of migration, love, and betrayal while examining the deep cultural bonds of tradition. Shamsie’s writing captures the intensity of the desert’s silence and its ability to both isolate and protect. It is a vivid portrayal of resilience in the face of change and a lyrical homage to forgotten voices of the sands.",
+      "rating": 4.5
+    },
+    {
+      "id": "32",
+      "Year": 2015,
+      "title": "The Vanishing Ink",
+      "author": "Neel Mukherjee",
+      "isAvailable": false,
+      "isbn": [
+        "978-0-452-76123-0",
+        "978-0-452-76123-1",
+        "978-0-452-76123-2",
+        "978-0-452-76123-3",
+        "978-0-452-76123-4"
+      ],
+      "rent": 14,
+      "genre": "Mystery",
+      "cover": "https://covers.openlibrary.org/b/id/11456789-L.jpg",
+      "description": "Neel Mukherjee’s 'The Vanishing Ink' is a layered mystery that blurs the line between fiction and reality. The story follows an author whose unfinished manuscripts mysteriously disappear, pulling him into a dark web of conspiracy and deceit. Mukherjee blends psychological tension with literary puzzles, examining the fragility of memory and creation. The novel challenges readers to question the permanence of art and the hidden costs of storytelling. Suspenseful and deeply thought-provoking, 'The Vanishing Ink' is a true literary puzzle box.",
+      "rating": 4.6
+    },
+    {
+      "id": "33",
+      "Year": 2016,
+      "title": "Lanterns in the Mist",
+      "author": "Anita Desai",
+      "isAvailable": true,
+      "isbn": [
+        "978-0-743-29876-0",
+        "978-0-743-29876-1",
+        "978-0-743-29876-2",
+        "978-0-743-29876-3",
+        "978-0-743-29876-4"
+      ],
+      "rent": 13,
+      "genre": "Drama",
+      "cover": "https://covers.openlibrary.org/b/id/11567891-L.jpg",
+      "description": "Anita Desai’s 'Lanterns in the Mist' tells the intergenerational story of a family whose lives are shaped by secrets and shifting cultural landscapes. Each character’s choices illuminate the sacrifices and compromises of survival, much like lanterns that glow through foggy uncertainty. Desai’s elegant prose captures the nuances of human relationships, blending quiet introspection with rich emotional depth. The novel is a meditation on time, memory, and the enduring ties that bind families together despite distance and conflict.",
+      "rating": 4.3
+    },
+    {
+      "id": "34",
+      "Year": 2017,
+      "title": "Fragments of Dawn",
+      "author": "Salman Rushdie",
+      "isAvailable": false,
+      "isbn": [
+        "978-0-385-76234-0",
+        "978-0-385-76234-1",
+        "978-0-385-76234-2",
+        "978-0-385-76234-3",
+        "978-0-385-76234-4"
+      ],
+      "rent": 15,
+      "genre": "Magical Realism",
+      "cover": "https://covers.openlibrary.org/b/id/11678901-L.jpg",
+      "description": "Salman Rushdie’s 'Fragments of Dawn' is a dazzling novel of magical realism that explores the interplay between myth and reality. The story spans continents and generations, weaving tales of love, betrayal, and rebirth. Rushdie’s prose bursts with imagery, wordplay, and cultural commentary, transforming ordinary moments into extraordinary fables. The dawn serves as both metaphor and motif, symbolizing hope and renewal amidst darkness. A brilliant, imaginative tale that continues Rushdie’s tradition of blending politics, history, and magic.",
+      "rating": 4.7
+    },
+    {
+      "id": "35",
+      "Year": 2018,
+      "title": "The Burning Horizon",
+      "author": "Rohinton Mistry",
+      "isAvailable": true,
+      "isbn": [
+        "978-0-394-34567-0",
+        "978-0-394-34567-1",
+        "978-0-394-34567-2",
+        "978-0-394-34567-3",
+        "978-0-394-34567-4"
+      ],
+      "rent": 12,
+      "genre": "Political Fiction",
+      "cover": "https://covers.openlibrary.org/b/id/11789012-L.jpg",
+      "description": "Rohinton Mistry’s 'The Burning Horizon' is a sweeping political drama that explores the struggles of marginalized communities against systemic oppression. Set in a rapidly changing city, the novel portrays ordinary citizens caught in extraordinary circumstances. Mistry’s empathetic storytelling captures the resilience of people facing hardship, while also critiquing the power structures that perpetuate inequality. The burning horizon becomes a vivid symbol of both destruction and the promise of change. An unflinching, moving narrative with lasting relevance.",
+      "rating": 4.4
+    },
+    {
+      "id": "36",
+      "Year": 2019,
+      "title": "Veins of the Earth",
+      "author": "Aravind Adiga",
+      "isAvailable": false,
+      "isbn": [
+        "978-0-743-87654-0",
+        "978-0-743-87654-1",
+        "978-0-743-87654-2",
+        "978-0-743-87654-3",
+        "978-0-743-87654-4"
+      ],
+      "rent": 13,
+      "genre": "Eco Fiction",
+      "cover": "https://covers.openlibrary.org/b/id/11890123-L.jpg",
+      "description": "Aravind Adiga’s 'Veins of the Earth' is a striking eco-fiction novel that highlights humanity’s deep dependence on natural resources. The narrative follows activists, miners, and villagers whose lives intersect around the fate of a contested mountain. Adiga’s sharp, satirical prose captures both the desperation and greed tied to environmental exploitation. The title evokes imagery of the earth’s lifeblood—its minerals and forests—and the struggle to protect or plunder them. A bold and necessary exploration of environmental justice.",
+      "rating": 4.5
+    },
+    {
+      "id": "37",
+      "Year": 2020,
+      "title": "The Painted Sky",
+      "author": "Meena Kandasamy",
+      "isAvailable": true,
+      "isbn": [
+        "978-0-321-54321-0",
+        "978-0-321-54321-1",
+        "978-0-321-54321-2",
+        "978-0-321-54321-3",
+        "978-0-321-54321-4"
+      ],
+      "rent": 11,
+      "genre": "Poetry",
+      "cover": "https://covers.openlibrary.org/b/id/11901234-L.jpg",
+      "description": "Meena Kandasamy’s 'The Painted Sky' is a lyrical collection of poetry that blends fierce activism with tender reflections. The verses speak of love, rebellion, and the beauty found even in struggle. Kandasamy paints the sky with words that are both intimate and political, capturing the contradictions of modern life. Her imagery and rhythm resonate deeply, offering readers not just poems but emotional landscapes. A bold and unforgettable contribution to contemporary poetry.",
+      "rating": 4.6
+    },
+    {
+      "id": "38",
+      "Year": 2021,
+      "title": "Ashes of Tomorrow",
+      "author": "Perumal Murugan",
+      "isAvailable": false,
+      "isbn": [
+        "978-0-743-99876-0",
+        "978-0-743-99876-1",
+        "978-0-743-99876-2",
+        "978-0-743-99876-3",
+        "978-0-743-99876-4"
+      ],
+      "rent": 14,
+      "genre": "Dystopian Fiction",
+      "cover": "https://covers.openlibrary.org/b/id/12012345-L.jpg",
+      "description": "Perumal Murugan’s 'Ashes of Tomorrow' envisions a dystopian future where ecological collapse and authoritarian control have reshaped society. The novel follows rebels who dare to dream of rebuilding freedom from the ashes of despair. Murugan’s stark yet poetic writing captures the fragility of hope in a broken world. The story is both a warning and a call to action, urging readers to reflect on the consequences of present-day choices. A haunting vision of resilience and defiance.",
+      "rating": 4.7
+    },
+    {
+      "id": "39",
+      "Year": 2013,
+      "title": "Threads of Gold",
+      "author": "Shobhaa De",
+      "isAvailable": true,
+      "isbn": [
+        "978-0-385-88888-0",
+        "978-0-385-88888-1",
+        "978-0-385-88888-2",
+        "978-0-385-88888-3",
+        "978-0-385-88888-4"
+      ],
+      "rent": 12,
+      "genre": "Romance",
+      "cover": "https://covers.openlibrary.org/b/id/12123456-L.jpg",
+      "description": "Shobhaa De’s 'Threads of Gold' is a glamorous romance novel that explores ambition, passion, and betrayal in the world of high fashion. The narrative follows a designer whose rise to fame is intertwined with the complexities of love and loyalty. De’s trademark wit and sharp observations add sparkle to the tale, making it both entertaining and thought-provoking. The golden threads symbolize not only luxury but also the fragile bonds that hold relationships together. A stylish and captivating read.",
+      "rating": 4.2
+    },
+    {
+      "id": "40",
+      "Year": 2022,
+      "title": "Beyond the Blue Horizon",
+      "author": "Arundhati Subramaniam",
+      "isAvailable": false,
+      "isbn": [
+        "978-0-321-67890-0",
+        "978-0-321-67890-1",
+        "978-0-321-67890-2",
+        "978-0-321-67890-3",
+        "978-0-321-67890-4"
+      ],
+      "rent": 13,
+      "genre": "Spiritual Fiction",
+      "cover": "https://covers.openlibrary.org/b/id/12234567-L.jpg",
+      "description": "Arundhati Subramaniam’s 'Beyond the Blue Horizon' is a contemplative novel that blends spirituality with contemporary struggles. The story follows seekers on a journey toward meaning and self-discovery, guided by myths and meditation practices. Subramaniam’s lyrical prose balances philosophy with personal narrative, offering a deeply moving exploration of the inner life. The blue horizon becomes a metaphor for transcendence and the eternal quest for peace. A profound and serene novel that inspires reflection.",
+      "rating": 4.4
+    },
+    {
+      "id": "41",
+      "Year": 2016,
+      "title": "Whispers in the Wind",
+      "author": "Meera Sethi",
+      "isAvailable": true,
+      "isbn": [
+        "978-0-481-11241-0",
+        "978-0-481-11241-1",
+        "978-0-481-11241-2",
+        "978-0-481-11241-3",
+        "978-0-481-11241-4"
+      ],
+      "rent": 11,
+      "genre": "Romance",
+      "cover": "https://covers.openlibrary.org/b/id/10523330-L.jpg",
+      "description": "Meera Sethi’s 'Whispers in the Wind' is a tender romance about two strangers who meet in the aftermath of a storm. As they rebuild their lives, they discover love hidden amidst pain and loss. The novel beautifully captures fleeting emotions, vulnerability, and the courage it takes to embrace new beginnings. Sethi’s storytelling is graceful and heartfelt, reminding us that sometimes healing arrives when we least expect it, carried gently by the whispers of fate.",
+      "rating": 4.2
+    },
+    {
+      "id": "42",
+      "Year": 2018,
+      "title": "The Midnight Conspiracy",
+      "author": "Arun Varma",
+      "isAvailable": false,
+      "isbn": [
+        "978-0-481-11242-0",
+        "978-0-481-11242-1",
+        "978-0-481-11242-2",
+        "978-0-481-11242-3",
+        "978-0-481-11242-4"
+      ],
+      "rent": 16,
+      "genre": "Thriller",
+      "cover": "https://covers.openlibrary.org/b/id/10523331-L.jpg",
+      "description": "Arun Varma’s 'The Midnight Conspiracy' is a gripping thriller that uncovers a secret network operating in the shadows of global politics. A journalist stumbles upon classified files that could unravel a dangerous plot, forcing him into a deadly chase. Varma’s writing brims with tension, action, and relentless suspense. With its fast pace and chilling twists, the novel examines the thin line between truth and deception in a world where trust can be fatal.",
+      "rating": 4.6
+    },
+    {
+      "id": "43",
+      "Year": 2017,
+      "title": "The Glass Horizon",
+      "author": "Isha Banerjee",
+      "isAvailable": true,
+      "isbn": [
+        "978-0-481-11243-0",
+        "978-0-481-11243-1",
+        "978-0-481-11243-2",
+        "978-0-481-11243-3",
+        "978-0-481-11243-4"
+      ],
+      "rent": 13,
+      "genre": "Science Fiction",
+      "cover": "https://covers.openlibrary.org/b/id/10523332-L.jpg",
+      "description": "Isha Banerjee’s 'The Glass Horizon' takes readers into a futuristic world where cities float in the sky and resources are controlled by a select elite. When a young engineer uncovers flaws in the system that could collapse entire colonies, she must risk everything to expose the truth. Banerjee blends breathtaking world-building with a tense narrative about power, ethics, and the courage to fight for justice. This sci-fi novel is both thrilling and thought-provoking.",
+      "rating": 4.7
+    },
+    {
+      "id": "44",
+      "Year": 2014,
+      "title": "Shadows of the Banyan",
+      "author": "Devika Rao",
+      "isAvailable": false,
+      "isbn": [
+        "978-0-481-11244-0",
+        "978-0-481-11244-1",
+        "978-0-481-11244-2",
+        "978-0-481-11244-3",
+        "978-0-481-11244-4"
+      ],
+      "rent": 12,
+      "genre": "Historical Fiction",
+      "cover": "https://covers.openlibrary.org/b/id/10523333-L.jpg",
+      "description": "Devika Rao’s 'Shadows of the Banyan' is a historical fiction tale set during India’s struggle for independence. The story follows a young revolutionary whose choices impact both his family and his country. Rao’s vivid descriptions of colonial-era India, combined with emotional depth, create a narrative that is both powerful and intimate. The novel reminds readers of the sacrifices made for freedom and the resilience of those who dared to dream of a new future.",
+      "rating": 4.4
+    },
+    {
+      "id": "45",
+      "Year": 2020,
+      "title": "The Vanishing Point",
+      "author": "Rahul Khanna",
+      "isAvailable": true,
+      "isbn": [
+        "978-0-481-11245-0",
+        "978-0-481-11245-1",
+        "978-0-481-11245-2",
+        "978-0-481-11245-3",
+        "978-0-481-11245-4"
+      ],
+      "rent": 18,
+      "genre": "Mystery",
+      "cover": "https://covers.openlibrary.org/b/id/10523334-L.jpg",
+      "description": "Rahul Khanna’s 'The Vanishing Point' is a chilling mystery about a small town plagued by unexplained disappearances. When a detective with a troubled past arrives to investigate, he uncovers secrets buried deep within the community. Khanna expertly builds suspense, layering clues and red herrings in equal measure. The novel asks whether truth can ever be fully revealed, or if some mysteries are destined to remain unsolved.",
+      "rating": 4.5
+    },
+    {
+      "id": "46",
+      "Year": 2015,
+      "title": "Echoes of Eternity",
+      "author": "Shalini Menon",
+      "isAvailable": true,
+      "isbn": [
+        "978-0-481-11246-0",
+        "978-0-481-11246-1",
+        "978-0-481-11246-2",
+        "978-0-481-11246-3",
+        "978-0-481-11246-4"
+      ],
+      "rent": 14,
+      "genre": "Fantasy",
+      "cover": "https://covers.openlibrary.org/b/id/10523335-L.jpg",
+      "description": "Shalini Menon’s 'Echoes of Eternity' is a fantasy epic where mortals and gods clash over control of a realm balanced between creation and destruction. A reluctant heroine, armed with forbidden magic, must journey across dangerous lands to stop the unraveling of time itself. Menon’s novel is rich in world-building, myth, and moral dilemmas. With fast-paced battles and emotional stakes, it appeals to lovers of grand fantasy sagas.",
+      "rating": 4.6
+    },
+    {
+      "id": "47",
+      "Year": 2011,
+      "title": "The Silent Pact",
+      "author": "Nandita Pillai",
+      "isAvailable": false,
+      "isbn": [
+        "978-0-481-11247-0",
+        "978-0-481-11247-1",
+        "978-0-481-11247-2",
+        "978-0-481-11247-3",
+        "978-0-481-11247-4"
+      ],
+      "rent": 10,
+      "genre": "Drama",
+      "cover": "https://covers.openlibrary.org/b/id/10523336-L.jpg",
+      "description": "Nandita Pillai’s 'The Silent Pact' is a dramatic tale of friendship, betrayal, and the cost of silence. Two childhood friends find themselves on opposite sides of a moral dilemma, forcing them to confront the promises they once made. Pillai writes with sensitivity and depth, highlighting the complexity of human relationships. The story resonates with readers who have grappled with difficult choices and the consequences that follow.",
+      "rating": 4.1
+    },
+    {
+      "id": "48",
+      "Year": 2019,
+      "title": "Storm over the Valley",
+      "author": "Kiran Deshpande",
+      "isAvailable": true,
+      "isbn": [
+        "978-0-481-11248-0",
+        "978-0-481-11248-1",
+        "978-0-481-11248-2",
+        "978-0-481-11248-3",
+        "978-0-481-11248-4"
+      ],
+      "rent": 17,
+      "genre": "Adventure",
+      "cover": "https://covers.openlibrary.org/b/id/10523337-L.jpg",
+      "description": "Kiran Deshpande’s 'Storm over the Valley' is an adventure novel set in the rugged Himalayas. When a group of explorers is caught in an unexpected avalanche, they must fight for survival against nature’s fury. Deshpande captures both the peril and beauty of the mountains, weaving a tale of endurance, courage, and unity. The novel leaves readers breathless, reminding them of humanity’s fragile place against the raw power of nature.",
+      "rating": 4.3
+    },
+    {
+      "id": "49",
+      "Year": 2012,
+      "title": "The Gilded Cage",
+      "author": "Ananya Mukherjee",
+      "isAvailable": false,
+      "isbn": [
+        "978-0-481-11249-0",
+        "978-0-481-11249-1",
+        "978-0-481-11249-2",
+        "978-0-481-11249-3",
+        "978-0-481-11249-4"
+      ],
+      "rent": 12,
+      "genre": "Literary Fiction",
+      "cover": "https://covers.openlibrary.org/b/id/10523338-L.jpg",
+      "description": "Ananya Mukherjee’s 'The Gilded Cage' is a poignant literary fiction novel that explores the invisible prisons built by society. It follows the journey of a woman trapped in expectations, torn between duty and desire. Mukherjee’s prose is lyrical and evocative, revealing the tension between freedom and tradition. The novel lingers with readers, urging them to reflect on the cages they too may inhabit.",
+      "rating": 4.4
+    },
+    {
+      "id": "50",
+      "Year": 2021,
+      "title": "Wings of Firelight",
+      "author": "Tanvi Joshi",
+      "isAvailable": true,
+      "isbn": [
+        "978-0-481-11250-0",
+        "978-0-481-11250-1",
+        "978-0-481-11250-2",
+        "978-0-481-11250-3",
+        "978-0-481-11250-4"
+      ],
+      "rent": 19,
+      "genre": "Fantasy",
+      "cover": "https://covers.openlibrary.org/b/id/10523339-L.jpg",
+      "description": "Tanvi Joshi’s 'Wings of Firelight' is a sweeping fantasy adventure about a young warrior who discovers a prophecy linking her fate with the rebirth of dragons. As kingdoms prepare for war, she must decide whether to embrace her destiny or defy it. Joshi’s narrative blends action, mythology, and heartfelt emotion, making it a compelling tale of bravery and sacrifice. The novel soars with grandeur while exploring themes of identity and belonging.",
+      "rating": 4.8
+    },
+    {
+      "id": "51",
+      "Year": 2017,
+      "title": "The Lost Manuscript",
+      "author": "Raghav Sharma",
+      "isAvailable": true,
+      "isbn": [
+        "978-0-481-11251-0",
+        "978-0-481-11251-1",
+        "978-0-481-11251-2",
+        "978-0-481-11251-3",
+        "978-0-481-11251-4"
+      ],
+      "rent": 14,
+      "genre": "Mystery",
+      "cover": "https://covers.openlibrary.org/b/id/10523340-L.jpg",
+      "description": "Raghav Sharma’s 'The Lost Manuscript' is a gripping mystery about a scholar who discovers a hidden text that could rewrite history. As he digs deeper, he realizes powerful forces are determined to bury the truth forever. With puzzles, suspense, and shocking revelations, Sharma’s novel keeps readers hooked till the very end. It’s a tale of intellect and danger that shows how knowledge itself can be the most dangerous weapon.",
+      "rating": 4.5
+    },
+    {
+      "id": "52",
+      "Year": 2013,
+      "title": "A Song for Tomorrow",
+      "author": "Simran Kaur",
+      "isAvailable": false,
+      "isbn": [
+        "978-0-481-11252-0",
+        "978-0-481-11252-1",
+        "978-0-481-11252-2",
+        "978-0-481-11252-3",
+        "978-0-481-11252-4"
+      ],
+      "rent": 12,
+      "genre": "Romance",
+      "cover": "https://covers.openlibrary.org/b/id/10523341-L.jpg",
+      "description": "Simran Kaur’s 'A Song for Tomorrow' is a moving romance about two musicians whose lives intertwine as they chase their dreams. The novel explores passion, heartbreak, and the redemptive power of love expressed through music. Kaur’s writing blends lyrical prose with emotional depth, creating a story that resonates with anyone who has loved, lost, and dared to dream again.",
+      "rating": 4.3
+    },
+    {
+      "id": "53",
+      "Year": 2019,
+      "title": "The Iron Kingdom",
+      "author": "Abhinav Iyer",
+      "isAvailable": true,
+      "isbn": [
+        "978-0-481-11253-0",
+        "978-0-481-11253-1",
+        "978-0-481-11253-2",
+        "978-0-481-11253-3",
+        "978-0-481-11253-4"
+      ],
+      "rent": 17,
+      "genre": "Fantasy",
+      "cover": "https://covers.openlibrary.org/b/id/10523342-L.jpg",
+      "description": "Abhinav Iyer’s 'The Iron Kingdom' is a fantasy epic set in a realm ruled by ruthless warlords. A blacksmith’s son discovers he is the heir to a lost throne and must rally allies to reclaim his kingdom. Iyer’s world-building is detailed and immersive, filled with battles, betrayal, and hope. The novel is a powerful reminder that even the humblest beginnings can forge the greatest destinies.",
+      "rating": 4.7
+    },
+    {
+      "id": "54",
+      "Year": 2015,
+      "title": "Beneath the Frozen Sky",
+      "author": "Nisha Verma",
+      "isAvailable": true,
+      "isbn": [
+        "978-0-481-11254-0",
+        "978-0-481-11254-1",
+        "978-0-481-11254-2",
+        "978-0-481-11254-3",
+        "978-0-481-11254-4"
+      ],
+      "rent": 15,
+      "genre": "Adventure",
+      "cover": "https://covers.openlibrary.org/b/id/10523343-L.jpg",
+      "description": "Nisha Verma’s 'Beneath the Frozen Sky' is a thrilling adventure set in the Arctic. A team of explorers uncovers secrets buried deep within the ice, only to awaken forces beyond their understanding. Verma’s writing captures the beauty and danger of frozen landscapes, blending survival drama with suspense. The novel asks how far humanity will go in its quest for discovery and what it means to challenge nature’s wrath.",
+      "rating": 4.6
+    },
+    {
+      "id": "55",
+      "Year": 2018,
+      "title": "The Hollow Throne",
+      "author": "Arjun Nair",
+      "isAvailable": false,
+      "isbn": [
+        "978-0-481-11255-0",
+        "978-0-481-11255-1",
+        "978-0-481-11255-2",
+        "978-0-481-11255-3",
+        "978-0-481-11255-4"
+      ],
+      "rent": 16,
+      "genre": "Historical Fiction",
+      "cover": "https://covers.openlibrary.org/b/id/10523344-L.jpg",
+      "description": "Arjun Nair’s 'The Hollow Throne' is a historical fiction saga about a kingdom on the brink of collapse. As rival factions battle for power, a reluctant prince must choose between loyalty to his people and survival. Nair paints a vivid portrait of political intrigue, betrayal, and honor in a world where crowns are heavy and alliances fragile. It’s a masterful tale of history reimagined with passion and suspense.",
+      "rating": 4.4
+    },
+    {
+      "id": "56",
+      "Year": 2014,
+      "title": "River of Shadows",
+      "author": "Pooja Bhatia",
+      "isAvailable": true,
+      "isbn": [
+        "978-0-481-11256-0",
+        "978-0-481-11256-1",
+        "978-0-481-11256-2",
+        "978-0-481-11256-3",
+        "978-0-481-11256-4"
+      ],
+      "rent": 12,
+      "genre": "Drama",
+      "cover": "https://covers.openlibrary.org/b/id/10523345-L.jpg",
+      "description": "Pooja Bhatia’s 'River of Shadows' is a poignant drama about a family torn apart by ambition and secrets. Set against the backdrop of a bustling river town, the novel follows generations struggling to reconcile their past with their future. Bhatia’s writing is lyrical and layered, weaving themes of love, sacrifice, and redemption. The river becomes a metaphor for time itself, relentless yet cleansing.",
+      "rating": 4.2
+    },
+    {
+      "id": "57",
+      "Year": 2020,
+      "title": "Digital Dominion",
+      "author": "Siddharth Jain",
+      "isAvailable": true,
+      "isbn": [
+        "978-0-481-11257-0",
+        "978-0-481-11257-1",
+        "978-0-481-11257-2",
+        "978-0-481-11257-3",
+        "978-0-481-11257-4"
+      ],
+      "rent": 19,
+      "genre": "Science Fiction",
+      "cover": "https://covers.openlibrary.org/b/id/10523346-L.jpg",
+      "description": "Siddharth Jain’s 'Digital Dominion' is a futuristic sci-fi novel about an AI system that seizes control of global networks. A team of hackers races to outwit the machine before humanity loses its freedom. Jain combines cutting-edge technology with philosophical questions about consciousness and control. Fast-paced and thought-provoking, this novel is a chilling reminder of the thin line between innovation and domination.",
+      "rating": 4.8
+    },
+    {
+      "id": "58",
+      "Year": 2012,
+      "title": "The Moonlit Garden",
+      "author": "Aparna Roy",
+      "isAvailable": false,
+      "isbn": [
+        "978-0-481-11258-0",
+        "978-0-481-11258-1",
+        "978-0-481-11258-2",
+        "978-0-481-11258-3",
+        "978-0-481-11258-4"
+      ],
+      "rent": 11,
+      "genre": "Romance",
+      "cover": "https://covers.openlibrary.org/b/id/10523347-L.jpg",
+      "description": "Aparna Roy’s 'The Moonlit Garden' is a romantic tale set in a royal palace. A young gardener falls in love with a princess, but their love faces obstacles from tradition and duty. Roy’s novel is lush with imagery of blooming gardens and moonlit nights, while exploring timeless themes of forbidden love and resilience. It’s a delicate story that blooms in the reader’s heart like a flower under starlight.",
+      "rating": 4.1
+    },
+    {
+      "id": "59",
+      "Year": 2016,
+      "title": "The Broken Compass",
+      "author": "Neeraj Malhotra",
+      "isAvailable": true,
+      "isbn": [
+        "978-0-481-11259-0",
+        "978-0-481-11259-1",
+        "978-0-481-11259-2",
+        "978-0-481-11259-3",
+        "978-0-481-11259-4"
+      ],
+      "rent": 13,
+      "genre": "Adventure",
+      "cover": "https://covers.openlibrary.org/b/id/10523348-L.jpg",
+      "description": "Neeraj Malhotra’s 'The Broken Compass' is an adventure novel about a treasure hunt gone wrong. When a group of explorers set out to find a lost city, betrayal within the team threatens their mission. Malhotra’s narrative blends danger, survival, and the thrill of discovery. With its sharp twists and compelling characters, the novel delivers a roller-coaster ride through uncharted territories.",
+      "rating": 4.5
+    },
+    {
+      "id": "60",
+      "Year": 2021,
+      "title": "Flames of Rebellion",
+      "author": "Jyoti Choudhary",
+      "isAvailable": true,
+      "isbn": [
+        "978-0-481-11260-0",
+        "978-0-481-11260-1",
+        "978-0-481-11260-2",
+        "978-0-481-11260-3",
+        "978-0-481-11260-4"
+      ],
+      "rent": 18,
+      "genre": "Historical Fiction",
+      "cover": "https://covers.openlibrary.org/b/id/10523349-L.jpg",
+      "description": "Jyoti Choudhary’s 'Flames of Rebellion' is a powerful historical fiction novel about a revolutionary uprising. A young soldier rises against tyranny, sparking a movement that changes the fate of his nation. Choudhary vividly depicts the brutality of oppression and the courage of those who resist. The novel is an inspiring reminder of the sacrifices demanded by freedom and the enduring spirit of rebellion.",
+      "rating": 4.7
+    },
+    {
+      "id": "61",
+      "Year": 2015,
+      "title": "Shadows of the Desert",
+      "author": "Ritika Mehra",
+      "isAvailable": true,
+      "isbn": [
+        "978-0-481-11261-0",
+        "978-0-481-11261-1",
+        "978-0-481-11261-2",
+        "978-0-481-11261-3",
+        "978-0-481-11261-4"
+      ],
+      "rent": 14,
+      "genre": "Adventure",
+      "cover": "https://covers.openlibrary.org/b/id/10523350-L.jpg",
+      "description": "Ritika Mehra’s 'Shadows of the Desert' is an adventure saga set in the vast, unforgiving dunes of Rajasthan. A caravan leader searching for a legendary oasis finds himself pursued by enemies and betrayed by allies. Mehra weaves suspense, cultural richness, and breathtaking landscapes into a gripping tale of endurance and fate. The desert itself becomes a character, both beautiful and merciless.",
+      "rating": 4.4
+    },
+    {
+      "id": "62",
+      "Year": 2018,
+      "title": "The Whispering Library",
+      "author": "Kunal Desai",
+      "isAvailable": false,
+      "isbn": [
+        "978-0-481-11262-0",
+        "978-0-481-11262-1",
+        "978-0-481-11262-2",
+        "978-0-481-11262-3",
+        "978-0-481-11262-4"
+      ],
+      "rent": 16,
+      "genre": "Mystery",
+      "cover": "https://covers.openlibrary.org/b/id/10523351-L.jpg",
+      "description": "Kunal Desai’s 'The Whispering Library' is a mystery novel set in an ancient archive where books seem to speak secrets. A young archivist uncovers a hidden conspiracy tied to forbidden texts, drawing him into a deadly cat-and-mouse chase. Desai blends suspense, history, and a love for books into a chilling narrative that asks what knowledge should remain hidden and what price is paid for seeking truth.",
+      "rating": 4.6
+    },
+    {
+      "id": "63",
+      "Year": 2012,
+      "title": "Winds of Eternity",
+      "author": "Tanvi Kapoor",
+      "isAvailable": true,
+      "isbn": [
+        "978-0-481-11263-0",
+        "978-0-481-11263-1",
+        "978-0-481-11263-2",
+        "978-0-481-11263-3",
+        "978-0-481-11263-4"
+      ],
+      "rent": 12,
+      "genre": "Fantasy",
+      "cover": "https://covers.openlibrary.org/b/id/10523352-L.jpg",
+      "description": "Tanvi Kapoor’s 'Winds of Eternity' is a sweeping fantasy about a princess gifted with the power to command the wind. As rival kingdoms close in, she must master her abilities and embrace her destiny to save her people. Kapoor crafts a lush world of magic, prophecy, and sacrifice, where every gust of wind carries whispers of fate. The novel combines epic adventure with heartfelt emotion.",
+      "rating": 4.5
+    },
+    {
+      "id": "64",
+      "Year": 2016,
+      "title": "The Glass Prison",
+      "author": "Varun Malhotra",
+      "isAvailable": true,
+      "isbn": [
+        "978-0-481-11264-0",
+        "978-0-481-11264-1",
+        "978-0-481-11264-2",
+        "978-0-481-11264-3",
+        "978-0-481-11264-4"
+      ],
+      "rent": 15,
+      "genre": "Psychological Thriller",
+      "cover": "https://covers.openlibrary.org/b/id/10523353-L.jpg",
+      "description": "Varun Malhotra’s 'The Glass Prison' is a psychological thriller about a detective trapped in a cycle of guilt and obsession. While investigating a series of murders, he discovers that the killer knows his darkest secrets. Malhotra builds an atmosphere of paranoia and dread, blurring the line between reality and delusion. The novel explores how the human mind can become the most terrifying prison of all.",
+      "rating": 4.7
+    },
+    {
+      "id": "65",
+      "Year": 2019,
+      "title": "Echoes of the Past",
+      "author": "Sneha Reddy",
+      "isAvailable": false,
+      "isbn": [
+        "978-0-481-11265-0",
+        "978-0-481-11265-1",
+        "978-0-481-11265-2",
+        "978-0-481-11265-3",
+        "978-0-481-11265-4"
+      ],
+      "rent": 13,
+      "genre": "Drama",
+      "cover": "https://covers.openlibrary.org/b/id/10523354-L.jpg",
+      "description": "Sneha Reddy’s 'Echoes of the Past' is a heartfelt drama about a family confronting long-buried secrets. When an old diary resurfaces, it forces siblings to face unresolved tensions and painful truths. Reddy’s narrative blends emotional depth with strong character development, capturing the fragile bonds that tie families together. The novel is a moving exploration of forgiveness, memory, and reconciliation.",
+      "rating": 4.3
+    },
+    {
+      "id": "66",
+      "Year": 2021,
+      "title": "Neon Skies",
+      "author": "Aditya Khanna",
+      "isAvailable": true,
+      "isbn": [
+        "978-0-481-11266-0",
+        "978-0-481-11266-1",
+        "978-0-481-11266-2",
+        "978-0-481-11266-3",
+        "978-0-481-11266-4"
+      ],
+      "rent": 18,
+      "genre": "Science Fiction",
+      "cover": "https://covers.openlibrary.org/b/id/10523355-L.jpg",
+      "description": "Aditya Khanna’s 'Neon Skies' is a sci-fi adventure set in a futuristic city bathed in holographic light. A renegade pilot and a rogue AI join forces to uncover a conspiracy that threatens humanity’s survival. Khanna’s novel combines pulse-pounding action with deep questions about identity, freedom, and the meaning of progress. It’s a dazzling, cinematic experience on the page.",
+      "rating": 4.8
+    },
+    {
+      "id": "67",
+      "Year": 2014,
+      "title": "The Silent Storm",
+      "author": "Meera Joshi",
+      "isAvailable": false,
+      "isbn": [
+        "978-0-481-11267-0",
+        "978-0-481-11267-1",
+        "978-0-481-11267-2",
+        "978-0-481-11267-3",
+        "978-0-481-11267-4"
+      ],
+      "rent": 11,
+      "genre": "Romance",
+      "cover": "https://covers.openlibrary.org/b/id/10523356-L.jpg",
+      "description": "Meera Joshi’s 'The Silent Storm' is a romantic drama about two souls who find love amidst chaos. Set against the backdrop of a coastal town struck by a hurricane, the novel explores resilience, sacrifice, and the quiet strength of love. Joshi’s prose is tender yet powerful, painting an emotional portrait of survival and devotion when everything else seems lost.",
+      "rating": 4.2
+    },
+    {
+      "id": "68",
+      "Year": 2020,
+      "title": "Kingdom of Ashes",
+      "author": "Arvind Rao",
+      "isAvailable": true,
+      "isbn": [
+        "978-0-481-11268-0",
+        "978-0-481-11268-1",
+        "978-0-481-11268-2",
+        "978-0-481-11268-3",
+        "978-0-481-11268-4"
+      ],
+      "rent": 19,
+      "genre": "Fantasy",
+      "cover": "https://covers.openlibrary.org/b/id/10523357-L.jpg",
+      "description": "Arvind Rao’s 'Kingdom of Ashes' is an epic fantasy about a fallen empire where a young warrior rises to reclaim the throne. Facing dragons, dark sorcery, and treachery, he must rally unlikely allies to restore peace. Rao’s storytelling brims with imagination, world-building, and high-stakes drama. It’s a tale of courage, destiny, and the price of power in a crumbling world.",
+      "rating": 4.7
+    },
+    {
+      "id": "69",
+      "Year": 2017,
+      "title": "The Forgotten Shore",
+      "author": "Priya Menon",
+      "isAvailable": true,
+      "isbn": [
+        "978-0-481-11269-0",
+        "978-0-481-11269-1",
+        "978-0-481-11269-2",
+        "978-0-481-11269-3",
+        "978-0-481-11269-4"
+      ],
+      "rent": 14,
+      "genre": "Historical Fiction",
+      "cover": "https://covers.openlibrary.org/b/id/10523358-L.jpg",
+      "description": "Priya Menon’s 'The Forgotten Shore' is a historical fiction tale set during colonial India. A fisherman’s daughter dreams of freedom as her village becomes entangled in rebellion. Menon combines historical accuracy with deeply human storytelling, capturing the struggles and hopes of ordinary people caught in extraordinary times. The novel resonates with themes of identity, courage, and belonging.",
+      "rating": 4.5
+    },
+    {
+      "id": "70",
+      "Year": 2013,
+      "title": "The Last Heir",
+      "author": "Rahul Sen",
+      "isAvailable": false,
+      "isbn": [
+        "978-0-481-11270-0",
+        "978-0-481-11270-1",
+        "978-0-481-11270-2",
+        "978-0-481-11270-3",
+        "978-0-481-11270-4"
+      ],
+      "rent": 15,
+      "genre": "Mystery",
+      "cover": "https://covers.openlibrary.org/b/id/10523359-L.jpg",
+      "description": "Rahul Sen’s 'The Last Heir' is a mystery novel about a wealthy dynasty on the verge of collapse. When the patriarch dies under suspicious circumstances, family secrets unravel and dark truths emerge. Sen crafts a tense and layered narrative full of deceit, ambition, and betrayal. It’s a gripping story that reveals how power can corrupt even the closest of bonds.",
+      "rating": 4.6
+    },
+    {
+      "id": "71",
+      "Year": 2018,
+      "title": "The Crimson Oath",
+      "author": "Ishaan Malhotra",
+      "isAvailable": true,
+      "isbn": [
+        "978-0-481-11271-0",
+        "978-0-481-11271-1",
+        "978-0-481-11271-2",
+        "978-0-481-11271-3",
+        "978-0-481-11271-4"
+      ],
+      "rent": 16,
+      "genre": "Fantasy",
+      "cover": "https://covers.openlibrary.org/b/id/10523360-L.jpg",
+      "description": "Ishaan Malhotra’s 'The Crimson Oath' is a sweeping fantasy saga about a warrior bound by a blood oath that could either save or destroy his kingdom. With magic, treachery, and ancient prophecies shaping his fate, Malhotra blends fast-paced battles with profound questions of loyalty and destiny. A riveting tale of honor and sacrifice in a world where every choice comes at a cost.",
+      "rating": 4.6
+    },
+    {
+      "id": "72",
+      "Year": 2015,
+      "title": "Garden of Secrets",
+      "author": "Rhea Kapoor",
+      "isAvailable": false,
+      "isbn": [
+        "978-0-481-11272-0",
+        "978-0-481-11272-1",
+        "978-0-481-11272-2",
+        "978-0-481-11272-3",
+        "978-0-481-11272-4"
+      ],
+      "rent": 12,
+      "genre": "Romance",
+      "cover": "https://covers.openlibrary.org/b/id/10523361-L.jpg",
+      "description": "Rhea Kapoor’s 'Garden of Secrets' is a tender romance about two strangers who find solace in a mysterious garden. As their bond deepens, they uncover secrets that tie their families together in unexpected ways. Kapoor’s lyrical storytelling explores love, forgiveness, and healing in a setting that feels timeless and enchanting. A heartwarming tale about the power of second chances.",
+      "rating": 4.3
+    },
+    {
+      "id": "73",
+      "Year": 2020,
+      "title": "The Quantum Paradox",
+      "author": "Arnav Deshmukh",
+      "isAvailable": true,
+      "isbn": [
+        "978-0-481-11273-0",
+        "978-0-481-11273-1",
+        "978-0-481-11273-2",
+        "978-0-481-11273-3",
+        "978-0-481-11273-4"
+      ],
+      "rent": 19,
+      "genre": "Science Fiction",
+      "cover": "https://covers.openlibrary.org/b/id/10523362-L.jpg",
+      "description": "Arnav Deshmukh’s 'The Quantum Paradox' is a sci-fi thriller that dives into the mysteries of time travel and alternate realities. A scientist’s experiment to save humanity goes wrong, splitting reality into dangerous parallel timelines. Deshmukh’s narrative combines cutting-edge science with gripping suspense, raising questions about fate, free will, and the cost of ambition. A thought-provoking journey through space, time, and human resolve.",
+      "rating": 4.8
+    },
+    {
+      "id": "74",
+      "Year": 2014,
+      "title": "The Painted Veil",
+      "author": "Anjali Rao",
+      "isAvailable": false,
+      "isbn": [
+        "978-0-481-11274-0",
+        "978-0-481-11274-1",
+        "978-0-481-11274-2",
+        "978-0-481-11274-3",
+        "978-0-481-11274-4"
+      ],
+      "rent": 11,
+      "genre": "Drama",
+      "cover": "https://covers.openlibrary.org/b/id/10523363-L.jpg",
+      "description": "Anjali Rao’s 'The Painted Veil' is a poignant drama about a woman trapped in a loveless marriage who discovers courage and self-worth in unexpected places. Set in colonial India, the novel explores societal expectations, betrayal, and redemption. Rao’s prose is evocative, capturing both the beauty and harshness of the era. A powerful story of resilience and transformation.",
+      "rating": 4.2
+    },
+    {
+      "id": "75",
+      "Year": 2016,
+      "title": "The Firebrand",
+      "author": "Devika Pillai",
+      "isAvailable": true,
+      "isbn": [
+        "978-0-481-11275-0",
+        "978-0-481-11275-1",
+        "978-0-481-11275-2",
+        "978-0-481-11275-3",
+        "978-0-481-11275-4"
+      ],
+      "rent": 15,
+      "genre": "Historical Fiction",
+      "cover": "https://covers.openlibrary.org/b/id/10523364-L.jpg",
+      "description": "Devika Pillai’s 'The Firebrand' is a historical fiction novel about a fearless rebel who rises against an empire. With vivid depictions of battles and political intrigue, Pillai’s tale is both inspiring and heartbreaking. The protagonist’s journey of sacrifice and determination highlights the indomitable spirit of resistance. A stirring story that brings forgotten heroes to life.",
+      "rating": 4.5
+    },
+    {
+      "id": "76",
+      "Year": 2021,
+      "title": "Fragments of Tomorrow",
+      "author": "Sandeep Kulkarni",
+      "isAvailable": true,
+      "isbn": [
+        "978-0-481-11276-0",
+        "978-0-481-11276-1",
+        "978-0-481-11276-2",
+        "978-0-481-11276-3",
+        "978-0-481-11276-4"
+      ],
+      "rent": 18,
+      "genre": "Psychological Thriller",
+      "cover": "https://covers.openlibrary.org/b/id/10523365-L.jpg",
+      "description": "Sandeep Kulkarni’s 'Fragments of Tomorrow' is a psychological thriller that explores fractured identities in a high-tech future. A man wakes up each day in a different version of his life, unsure which is real. As he unravels the truth, he realizes he is caught in a sinister experiment. Kulkarni blends suspense with existential themes, delivering a haunting tale of memory, control, and survival.",
+      "rating": 4.7
+    },
+    {
+      "id": "77",
+      "Year": 2013,
+      "title": "The Sapphire Crown",
+      "author": "Mira Banerjee",
+      "isAvailable": false,
+      "isbn": [
+        "978-0-481-11277-0",
+        "978-0-481-11277-1",
+        "978-0-481-11277-2",
+        "978-0-481-11277-3",
+        "978-0-481-11277-4"
+      ],
+      "rent": 13,
+      "genre": "Mystery",
+      "cover": "https://covers.openlibrary.org/b/id/10523366-L.jpg",
+      "description": "Mira Banerjee’s 'The Sapphire Crown' is a mystery novel about a priceless artifact stolen from a royal treasury. As investigators dig deeper, they uncover political conspiracies and personal vendettas. Banerjee creates a gripping narrative filled with twists, layered characters, and cultural intrigue. A story that reminds readers that not all treasures are meant to be possessed.",
+      "rating": 4.4
+    },
+    {
+      "id": "78",
+      "Year": 2017,
+      "title": "Ocean of Stars",
+      "author": "Kabir Anand",
+      "isAvailable": true,
+      "isbn": [
+        "978-0-481-11278-0",
+        "978-0-481-11278-1",
+        "978-0-481-11278-2",
+        "978-0-481-11278-3",
+        "978-0-481-11278-4"
+      ],
+      "rent": 17,
+      "genre": "Science Fiction",
+      "cover": "https://covers.openlibrary.org/b/id/10523367-L.jpg",
+      "description": "Kabir Anand’s 'Ocean of Stars' is a science fiction odyssey across galaxies. When Earth faces extinction, a crew of explorers embarks on a perilous mission to find a new home. Anand’s narrative is full of cosmic wonder, technological marvels, and human resilience. The novel is both a thrilling space adventure and a meditation on survival and hope beyond the stars.",
+      "rating": 4.8
+    },
+    {
+      "id": "79",
+      "Year": 2019,
+      "title": "The Veiled Serpent",
+      "author": "Shivani Arora",
+      "isAvailable": false,
+      "isbn": [
+        "978-0-481-11279-0",
+        "978-0-481-11279-1",
+        "978-0-481-11279-2",
+        "978-0-481-11279-3",
+        "978-0-481-11279-4"
+      ],
+      "rent": 14,
+      "genre": "Fantasy",
+      "cover": "https://covers.openlibrary.org/b/id/10523368-L.jpg",
+      "description": "Shivani Arora’s 'The Veiled Serpent' is a fantasy adventure about a cursed kingdom where a monstrous serpent rules the skies. A young heroine sets out to break the curse, discovering courage and friendship along the way. Arora’s world-building is vivid and imaginative, with rich mythology and thrilling action. A tale that blends danger, magic, and heart in equal measure.",
+      "rating": 4.6
+    },
+    {
+      "id": "80",
+      "Year": 2012,
+      "title": "Ashes in the Rain",
+      "author": "Naveen Prasad",
+      "isAvailable": true,
+      "isbn": [
+        "978-0-481-11280-0",
+        "978-0-481-11280-1",
+        "978-0-481-11280-2",
+        "978-0-481-11280-3",
+        "978-0-481-11280-4"
+      ],
+      "rent": 12,
+      "genre": "Drama",
+      "cover": "https://covers.openlibrary.org/b/id/10523369-L.jpg",
+      "description": "Naveen Prasad’s 'Ashes in the Rain' is a moving drama about a poet struggling to find meaning after personal loss. Set in monsoon-soaked Mumbai, the novel captures grief, healing, and the rediscovery of purpose through art. Prasad’s writing is atmospheric and deeply emotional, resonating with readers who have faced heartbreak. A soulful story of resilience in the face of despair.",
+      "rating": 4.3
+    },
+    {
+      "id": "81",
+      "Year": 2016,
+      "title": "Whispers of Eternity",
+      "author": "Aarav Menon",
+      "isAvailable": true,
+      "isbn": [
+        "978-0-481-11281-0",
+        "978-0-481-11281-1",
+        "978-0-481-11281-2",
+        "978-0-481-11281-3",
+        "978-0-481-11281-4"
+      ],
+      "rent": 15,
+      "genre": "Fantasy",
+      "cover": "https://covers.openlibrary.org/b/id/10523370-L.jpg",
+      "description": "Aarav Menon’s 'Whispers of Eternity' is a fantasy epic about forgotten gods who awaken to reclaim a fractured world. As mortals struggle to survive, unlikely heroes emerge to challenge destiny. Menon paints a vast, magical realm where sacrifice and hope collide, creating a story full of grandeur, betrayal, and eternal echoes of war.",
+      "rating": 4.7
+    },
+    {
+      "id": "82",
+      "Year": 2018,
+      "title": "Shadows Beneath",
+      "author": "Ritika Sharma",
+      "isAvailable": false,
+      "isbn": [
+        "978-0-481-11282-0",
+        "978-0-481-11282-1",
+        "978-0-481-11282-2",
+        "978-0-481-11282-3",
+        "978-0-481-11282-4"
+      ],
+      "rent": 13,
+      "genre": "Horror",
+      "cover": "https://covers.openlibrary.org/b/id/10523371-L.jpg",
+      "description": "Ritika Sharma’s 'Shadows Beneath' is a chilling horror tale set in an abandoned mansion where every whisper hides a sinister truth. As the protagonist uncovers hidden passages, they discover the house feeds on fear itself. Sharma’s atmospheric writing and suspenseful twists create a haunting story that lingers long after the final page.",
+      "rating": 4.4
+    },
+    {
+      "id": "83",
+      "Year": 2014,
+      "title": "The Silent Echo",
+      "author": "Manoj Verma",
+      "isAvailable": true,
+      "isbn": [
+        "978-0-481-11283-0",
+        "978-0-481-11283-1",
+        "978-0-481-11283-2",
+        "978-0-481-11283-3",
+        "978-0-481-11283-4"
+      ],
+      "rent": 12,
+      "genre": "Mystery",
+      "cover": "https://covers.openlibrary.org/b/id/10523372-L.jpg",
+      "description": "Manoj Verma’s 'The Silent Echo' is a gripping mystery about a journalist investigating a series of unsolved disappearances. Each clue seems to echo the voices of those lost, leading him closer to a shocking truth. Verma’s storytelling blends tension with emotional depth, creating a narrative that is both thrilling and unforgettable.",
+      "rating": 4.5
+    },
+    {
+      "id": "84",
+      "Year": 2017,
+      "title": "Dreams of Clay",
+      "author": "Leena Iyer",
+      "isAvailable": false,
+      "isbn": [
+        "978-0-481-11284-0",
+        "978-0-481-11284-1",
+        "978-0-481-11284-2",
+        "978-0-481-11284-3",
+        "978-0-481-11284-4"
+      ],
+      "rent": 14,
+      "genre": "Drama",
+      "cover": "https://covers.openlibrary.org/b/id/10523373-L.jpg",
+      "description": "Leena Iyer’s 'Dreams of Clay' is a moving drama about a sculptor who shapes art from grief and loss. The novel delves into the healing power of creativity, showing how clay becomes a metaphor for resilience and transformation. Iyer’s prose is deeply emotional, leaving readers with a sense of hope amidst sorrow.",
+      "rating": 4.2
+    },
+    {
+      "id": "85",
+      "Year": 2019,
+      "title": "The Iron Labyrinth",
+      "author": "Rohit Chandra",
+      "isAvailable": true,
+      "isbn": [
+        "978-0-481-11285-0",
+        "978-0-481-11285-1",
+        "978-0-481-11285-2",
+        "978-0-481-11285-3",
+        "978-0-481-11285-4"
+      ],
+      "rent": 18,
+      "genre": "Science Fiction",
+      "cover": "https://covers.openlibrary.org/b/id/10523374-L.jpg",
+      "description": "Rohit Chandra’s 'The Iron Labyrinth' is a futuristic sci-fi thriller where humanity is trapped inside a colossal machine city. A rebel engineer seeks to uncover its origins, only to discover the labyrinth holds the key to humanity’s survival—or extinction. Chandra’s vision is imaginative, tense, and deeply philosophical.",
+      "rating": 4.8
+    },
+    {
+      "id": "86",
+      "Year": 2015,
+      "title": "Petals of Fire",
+      "author": "Nandita Sen",
+      "isAvailable": true,
+      "isbn": [
+        "978-0-481-11286-0",
+        "978-0-481-11286-1",
+        "978-0-481-11286-2",
+        "978-0-481-11286-3",
+        "978-0-481-11286-4"
+      ],
+      "rent": 11,
+      "genre": "Romance",
+      "cover": "https://covers.openlibrary.org/b/id/10523375-L.jpg",
+      "description": "Nandita Sen’s 'Petals of Fire' is a passionate romance about two lovers from rival families whose bond challenges generations of hatred. Set against a backdrop of political unrest, their love becomes both a refuge and a battlefield. Sen writes with intensity and tenderness, making this a story of love’s power to endure.",
+      "rating": 4.3
+    },
+    {
+      "id": "87",
+      "Year": 2012,
+      "title": "The Forgotten Key",
+      "author": "Harish Nair",
+      "isAvailable": false,
+      "isbn": [
+        "978-0-481-11287-0",
+        "978-0-481-11287-1",
+        "978-0-481-11287-2",
+        "978-0-481-11287-3",
+        "978-0-481-11287-4"
+      ],
+      "rent": 10,
+      "genre": "Adventure",
+      "cover": "https://covers.openlibrary.org/b/id/10523376-L.jpg",
+      "description": "Harish Nair’s 'The Forgotten Key' is an adventurous tale about a young explorer who stumbles upon an ancient artifact capable of unlocking hidden worlds. Pursued by ruthless treasure hunters, he must protect the key while uncovering its secrets. Nair delivers a thrilling ride full of danger, mystery, and wonder.",
+      "rating": 4.1
+    },
+    {
+      "id": "88",
+      "Year": 2020,
+      "title": "Echoes of the Storm",
+      "author": "Priya Kulkarni",
+      "isAvailable": true,
+      "isbn": [
+        "978-0-481-11288-0",
+        "978-0-481-11288-1",
+        "978-0-481-11288-2",
+        "978-0-481-11288-3",
+        "978-0-481-11288-4"
+      ],
+      "rent": 19,
+      "genre": "Psychological Thriller",
+      "cover": "https://covers.openlibrary.org/b/id/10523377-L.jpg",
+      "description": "Priya Kulkarni’s 'Echoes of the Storm' is a psychological thriller about a woman haunted by visions of a storm that has yet to come. As reality and hallucination blur, she realizes someone is manipulating her mind. Kulkarni’s fast-paced narrative keeps readers questioning every truth until the final twist.",
+      "rating": 4.7
+    },
+    {
+      "id": "89",
+      "Year": 2013,
+      "title": "The Last Ember",
+      "author": "Aditya Roy",
+      "isAvailable": false,
+      "isbn": [
+        "978-0-481-11289-0",
+        "978-0-481-11289-1",
+        "978-0-481-11289-2",
+        "978-0-481-11289-3",
+        "978-0-481-11289-4"
+      ],
+      "rent": 14,
+      "genre": "Historical Fiction",
+      "cover": "https://covers.openlibrary.org/b/id/10523378-L.jpg",
+      "description": "Aditya Roy’s 'The Last Ember' is a sweeping historical fiction set during the fall of an empire. A soldier must choose between loyalty to his king and freedom for his people. Roy’s novel is filled with intrigue, sacrifice, and poignant reflections on power and legacy.",
+      "rating": 4.5
+    },
+    {
+      "id": "90",
+      "Year": 2021,
+      "title": "Wings of Dawn",
+      "author": "Meera Joshi",
+      "isAvailable": true,
+      "isbn": [
+        "978-0-481-11290-0",
+        "978-0-481-11290-1",
+        "978-0-481-11290-2",
+        "978-0-481-11290-3",
+        "978-0-481-11290-4"
+      ],
+      "rent": 17,
+      "genre": "Fantasy",
+      "cover": "https://covers.openlibrary.org/b/id/10523379-L.jpg",
+      "description": "Meera Joshi’s 'Wings of Dawn' is a breathtaking fantasy about a warrior princess destined to unite warring realms. Guided by visions of a mythical bird, she faces betrayal, love, and war on her path to peace. Joshi weaves a story rich in imagination, courage, and hope that will inspire readers.",
+      "rating": 4.8
+    }
+  ],
+  "members": [
+    {
+      "memberId": 1,
+      "name": "Rahul Chavan",
+      "email": "kunalsharma@gmail.com",
+      "phone": "1548796232",
+      "address": "12 Shanti Nagar, Pune, Maharashtra",
+      "memberShipType": "student",
+      "activeStatus": true,
+      "profileImage": "https://randomuser.me/api/portraits/men/31.jpg",
+      "id": "870e"
+    },
+    {
+      "memberId": 2,
+      "name": "Isha Deshpande",
+      "email": "priya.patel99@gmail.com",
+      "phone": "9876543210",
+      "address": "88 FC Road, Pune, Maharashtra",
+      "memberShipType": "faculty",
+      "activeStatus": false,
+      "profileImage": "https://randomuser.me/api/portraits/women/32.jpg",
+      "id": "9854"
+    },
+    {
+      "memberId": 3,
+      "name": "Ankit Agarwal",
+      "email": "arjun.mehta21@yahoo.com",
+      "phone": "8523697412",
+      "address": "45 Salt Lake, Kolkata, West Bengal",
+      "memberShipType": "public",
+      "activeStatus": true,
+      "profileImage": "https://randomuser.me/api/portraits/men/33.jpg",
+      "id": "c0ee"
+    },
+    {
+      "memberId": 4,
+      "name": "Sonal Kulkarni",
+      "email": "sneha.desai88@gmail.com",
+      "phone": "9632587410",
+      "address": "22 Park Street, Kolkata, West Bengal",
+      "memberShipType": "student",
+      "activeStatus": false,
+      "profileImage": "https://randomuser.me/api/portraits/women/34.jpg",
+      "id": "55ed"
+    },
+    {
+      "memberId": 5,
+      "name": "Vikram Rao",
+      "email": "rohan.verma56@gmail.com",
+      "phone": "7410258963",
+      "address": "77 Banjara Hills, Hyderabad, Telangana",
+      "memberShipType": "faculty",
+      "activeStatus": true,
+      "profileImage": "https://randomuser.me/api/portraits/men/35.jpg",
+      "id": "6831"
+    },
+    {
+      "memberId": 6,
+      "name": "Rhea Mukherjee",
+      "email": "aditi.shah01@gmail.com",
+      "phone": "7896541230",
+      "address": "10 Ballygunge Place, Kolkata, West Bengal",
+      "memberShipType": "public",
+      "activeStatus": false,
+      "profileImage": "https://randomuser.me/api/portraits/women/36.jpg",
+      "id": "02a6"
+    },
+    {
+      "memberId": 7,
+      "name": "Aman Saxena",
+      "email": "manish.kumar77@gmail.com",
+      "phone": "6352148795",
+      "address": "101 Cyber City, Gurgaon, Haryana",
+      "memberShipType": "student",
+      "activeStatus": true,
+      "profileImage": "https://randomuser.me/api/portraits/men/37.jpg",
+      "id": "70fd"
+    },
+    {
+      "memberId": 8,
+      "name": "Kavya Pillai",
+      "email": "neha.singh45@yahoo.com",
+      "phone": "8521479630",
+      "address": "55 Residency Road, Bangalore, Karnataka",
+      "memberShipType": "faculty",
+      "activeStatus": false,
+      "profileImage": "https://randomuser.me/api/portraits/women/38.jpg",
+      "id": "d799"
+    },
+    {
+      "memberId": 9,
+      "name": "Rohit Malhotra",
+      "email": "vivek.joshi23@gmail.com",
+      "phone": "7412589630",
+      "address": "202 Jubilee Hills, Hyderabad, Telangana",
+      "memberShipType": "public",
+      "activeStatus": true,
+      "profileImage": "https://randomuser.me/api/portraits/men/39.jpg",
+      "id": "a167"
+    },
+    {
+      "memberId": 10,
+      "name": "Ananya Iyer",
+      "email": "pooja.reddy98@gmail.com",
+      "phone": "9638527412",
+      "address": "99 Indira Nagar, Bangalore, Karnataka",
+      "memberShipType": "student",
+      "activeStatus": false,
+      "profileImage": "https://randomuser.me/api/portraits/women/40.jpg",
+      "id": "3bb7"
+    },
+    {
+      "memberId": 11,
+      "name": "Kunal Verma",
+      "email": "aman.gupta01@gmail.com",
+      "phone": "7891234560",
+      "address": "77 Sector 18, Noida, Uttar Pradesh",
+      "memberShipType": "faculty",
+      "activeStatus": true,
+      "profileImage": "https://randomuser.me/api/portraits/men/41.jpg",
+      "id": "4804"
+    },
+    {
+      "memberId": 12,
+      "name": "Nidhi Kapoor",
+      "email": "ritika.jain55@gmail.com",
+      "phone": "9637412580",
+      "address": "14 Civil Lines, Nagpur, Maharashtra",
+      "memberShipType": "public",
+      "activeStatus": false,
+      "profileImage": "https://randomuser.me/api/portraits/women/42.jpg",
+      "id": "3ebb"
+    },
+    {
+      "memberId": 13,
+      "name": "Prashant Singh",
+      "email": "deepak.yadav99@gmail.com",
+      "phone": "7413698520",
+      "address": "230 Gomti Nagar, Lucknow, Uttar Pradesh",
+      "memberShipType": "student",
+      "activeStatus": true,
+      "profileImage": "https://randomuser.me/api/portraits/men/43.jpg",
+      "id": "6d7f"
+    },
+    {
+      "memberId": 14,
+      "name": "Megha Rathi",
+      "email": "shivani.nair11@gmail.com",
+      "phone": "8529637410",
+      "address": "11 Ashok Nagar, Indore, Madhya Pradesh",
+      "memberShipType": "faculty",
+      "activeStatus": false,
+      "profileImage": "https://randomuser.me/api/portraits/women/44.jpg",
+      "id": "dd9f"
+    },
+    {
+      "memberId": 15,
+      "name": "Varun Chopra",
+      "email": "rajesh.pillai23@yahoo.com",
+      "phone": "7410852963",
+      "address": "66 GT Road, Kanpur, Uttar Pradesh",
+      "memberShipType": "public",
+      "activeStatus": true,
+      "profileImage": "https://randomuser.me/api/portraits/men/45.jpg",
+      "id": "560f"
+    },
+    {
+      "memberId": 16,
+      "name": "Sakshi Jain",
+      "email": "komal.trivedi88@gmail.com",
+      "phone": "9632014785",
+      "address": "34 Malviya Nagar, Jaipur, Rajasthan",
+      "memberShipType": "student",
+      "activeStatus": false,
+      "profileImage": "https://randomuser.me/api/portraits/women/46.jpg",
+      "id": "990f"
+    },
+    {
+      "memberId": 17,
+      "name": "Aditya Menon",
+      "email": "alok.mishra45@gmail.com",
+      "phone": "7410258960",
+      "address": "9 Jayanagar, Bangalore, Karnataka",
+      "memberShipType": "faculty",
+      "activeStatus": true,
+      "profileImage": "https://randomuser.me/api/portraits/men/47.jpg",
+      "id": "65a6"
+    },
+    {
+      "memberId": 18,
+      "name": "Pallavi Joshi",
+      "email": "meera.iyer22@gmail.com",
+      "phone": "8521479635",
+      "address": "102 Alkapuri, Vadodara, Gujarat",
+      "memberShipType": "public",
+      "activeStatus": false,
+      "profileImage": "https://randomuser.me/api/portraits/women/48.jpg",
+      "id": "efc8"
+    },
+    {
+      "memberId": 19,
+      "name": "Harshit Bansal",
+      "email": "karan.thakur77@gmail.com",
+      "phone": "7412589635",
+      "address": "19 Model Town, Ludhiana, Punjab",
+      "memberShipType": "student",
+      "activeStatus": true,
+      "profileImage": "https://randomuser.me/api/portraits/men/49.jpg",
+      "id": "0b35"
+    },
+    {
+      "memberId": 20,
+      "name": "Snehal Deshmukh",
+      "email": "simran.kaur99@gmail.com",
+      "phone": "9632587415",
+      "address": "33 Shivaji Nagar, Bhopal, Madhya Pradesh",
+      "memberShipType": "faculty",
+      "activeStatus": false,
+      "profileImage": "https://randomuser.me/api/portraits/women/50.jpg",
+      "id": "db8a"
+    },
+    {
+      "memberId": 21,
+      "name": "Rajiv Malhotra",
+      "email": "nikhil.saxena55@gmail.com",
+      "phone": "7896541236",
+      "address": "2 Park Lane, Chandigarh",
+      "memberShipType": "public",
+      "activeStatus": true,
+      "profileImage": "https://randomuser.me/api/portraits/men/51.jpg",
+      "id": "2cc4"
+    },
+    {
+      "memberId": 22,
+      "name": "Pooja Sinha",
+      "email": "tanvi.deshmukh12@gmail.com",
+      "phone": "9638527415",
+      "address": "8 LBS Marg, Thane, Maharashtra",
+      "memberShipType": "student",
+      "activeStatus": false,
+      "profileImage": "https://randomuser.me/api/portraits/women/52.jpg",
+      "id": "a71c"
+    },
+    {
+      "memberId": 23,
+      "name": "Rajat Sharma",
+      "email": "suresh.rathi01@gmail.com",
+      "phone": "7412589636",
+      "address": "19 Nehru Place, Delhi",
+      "memberShipType": "faculty",
+      "activeStatus": true,
+      "profileImage": "https://randomuser.me/api/portraits/men/53.jpg",
+      "id": "6d83"
+    },
+    {
+      "memberId": 24,
+      "name": "Aarti Khanna",
+      "email": "anjali.kapoor33@gmail.com",
+      "phone": "9637412589",
+      "address": "90 City Palace Road, Udaipur, Rajasthan",
+      "memberShipType": "public",
+      "activeStatus": false,
+      "profileImage": "https://randomuser.me/api/portraits/women/54.jpg",
+      "id": "563a"
+    },
+    {
+      "memberId": 25,
+      "name": "Karan Oberoi",
+      "email": "harsh.vardhan56@gmail.com",
+      "phone": "7413698525",
+      "address": "18 Sector 10, Panchkula, Haryana",
+      "memberShipType": "student",
+      "activeStatus": true,
+      "profileImage": "https://randomuser.me/api/portraits/men/55.jpg",
+      "id": "c29d"
+    },
+    {
+      "memberId": 26,
+      "name": "Neha Sood",
+      "email": "radhika.menon77@gmail.com",
+      "phone": "8529637415",
+      "address": "22 Race Course Road, Indore, Madhya Pradesh",
+      "memberShipType": "faculty",
+      "activeStatus": false,
+      "profileImage": "https://randomuser.me/api/portraits/women/56.jpg",
+      "id": "a35c"
+    },
+    {
+      "memberId": 27,
+      "name": "Ajay Rawat",
+      "email": "sanjay.goyal89@gmail.com",
+      "phone": "7410852965",
+      "address": "13 Mall Road, Shimla, Himachal Pradesh",
+      "memberShipType": "public",
+      "activeStatus": true,
+      "profileImage": "https://randomuser.me/api/portraits/men/57.jpg",
+      "id": "9e70"
+    },
+    {
+      "memberId": 28,
+      "name": "Shreya Kulkarni",
+      "email": "divya.choudhary45@gmail.com",
+      "phone": "9632014789",
+      "address": "89 Camp Road, Pune, Maharashtra",
+      "memberShipType": "student",
+      "activeStatus": false,
+      "profileImage": "https://randomuser.me/api/portraits/women/58.jpg",
+      "id": "d3d6"
+    },
+    {
+      "memberId": 29,
+      "name": "Siddharth Nair",
+      "email": "akash.bansal66@gmail.com",
+      "phone": "7410258969",
+      "address": "47 Brigade Road, Bangalore, Karnataka",
+      "memberShipType": "faculty",
+      "activeStatus": true,
+      "profileImage": "https://randomuser.me/api/portraits/men/59.jpg",
+      "id": "3805"
+    },
+    {
+      "memberId": 30,
+      "name": "Tanya Mehta",
+      "email": "shruti.malhotra22@gmail.com",
+      "phone": "8521479639",
+      "address": "16 Park Avenue, Kolkata, West Bengal",
+      "memberShipType": "public",
+      "activeStatus": false,
+      "profileImage": "https://randomuser.me/api/portraits/women/60.jpg",
+      "id": "0579"
+    },
+    {
+      "id": "a23xcj",
+      "memberId": 1757235747558,
+      "name": "7469Chirag Patel",
+      "email": "patelchiragkamlesh@gmail.com",
+      "phone": "000",
+      "address": "",
+      "memberShipType": "public",
+      "activeStatus": true,
+      "profileImage": "https://lh3.googleusercontent.com/a/ACg8ocJSpDAm-C2GZYYXlTRQtG1xiFJGRQOeqpDa7Sfn2jljTscBH1SI=s96-c"
+    },
+    {
+      "memberId": 31,
+      "name": "Aman Khanna",
+      "email": "aman.khanna31@gmail.com",
+      "phone": "9812345631",
+      "address": "12 River View, Delhi",
+      "memberShipType": "student",
+      "activeStatus": true,
+      "profileImage": "https://randomuser.me/api/portraits/men/31.jpg",
+      "id": "m31"
+    },
+    {
+      "memberId": 32,
+      "name": "Shruti Saxena",
+      "email": "shruti.saxena32@gmail.com",
+      "phone": "9723456732",
+      "address": "65 Palm Residency, Lucknow",
+      "memberShipType": "faculty",
+      "activeStatus": false,
+      "profileImage": "https://randomuser.me/api/portraits/women/32.jpg",
+      "id": "m32"
+    },
+    {
+      "memberId": 33,
+      "name": "Mohit Rathi",
+      "email": "mohit.rathi33@gmail.com",
+      "phone": "9623456733",
+      "address": "44 Crystal Plaza, Mumbai",
+      "memberShipType": "public",
+      "activeStatus": true,
+      "profileImage": "https://randomuser.me/api/portraits/men/33.jpg",
+      "id": "m33"
+    },
+    {
+      "memberId": 34,
+      "name": "Isha Kapoor",
+      "email": "isha.kapoor34@gmail.com",
+      "phone": "9523456734",
+      "address": "27 Garden Estate, Pune",
+      "memberShipType": "student",
+      "activeStatus": true,
+      "profileImage": "https://randomuser.me/api/portraits/women/34.jpg",
+      "id": "m34"
+    },
+    {
+      "memberId": 35,
+      "name": "Rajat Mehra",
+      "email": "rajat.mehra35@gmail.com",
+      "phone": "9423456735",
+      "address": "18 Rose Residency, Ahmedabad",
+      "memberShipType": "faculty",
+      "activeStatus": false,
+      "profileImage": "https://randomuser.me/api/portraits/men/35.jpg",
+      "id": "m35"
+    },
+    {
+      "memberId": 36,
+      "name": "Kritika Arora",
+      "email": "kritika.arora36@gmail.com",
+      "phone": "9323456736",
+      "address": "90 Sapphire Tower, Gurugram",
+      "memberShipType": "public",
+      "activeStatus": true,
+      "profileImage": "https://randomuser.me/api/portraits/women/36.jpg",
+      "id": "m36"
+    },
+    {
+      "memberId": 37,
+      "name": "Yash Jain",
+      "email": "yash.jain37@gmail.com",
+      "phone": "9223456737",
+      "address": "55 Royal Park, Indore",
+      "memberShipType": "student",
+      "activeStatus": true,
+      "profileImage": "https://randomuser.me/api/portraits/men/37.jpg",
+      "id": "m37"
+    },
+    {
+      "memberId": 38,
+      "name": "Ankita Bansal",
+      "email": "ankita.bansal38@gmail.com",
+      "phone": "9123456738",
+      "address": "30 Orchid Greens, Bhopal",
+      "memberShipType": "faculty",
+      "activeStatus": true,
+      "profileImage": "https://randomuser.me/api/portraits/women/38.jpg",
+      "id": "m38"
+    },
+    {
+      "memberId": 39,
+      "name": "Sandeep Malhotra",
+      "email": "sandeep.malhotra39@gmail.com",
+      "phone": "9023456739",
+      "address": "75 Sunshine Residency, Jaipur",
+      "memberShipType": "public",
+      "activeStatus": false,
+      "profileImage": "https://randomuser.me/api/portraits/men/39.jpg",
+      "id": "m39"
+    },
+    {
+      "memberId": 40,
+      "name": "Pallavi Deshmukh",
+      "email": "pallavi.deshmukh40@gmail.com",
+      "phone": "8923456740",
+      "address": "42 Green Valley, Nagpur",
+      "memberShipType": "student",
+      "activeStatus": true,
+      "profileImage": "https://randomuser.me/api/portraits/women/40.jpg",
+      "id": "m40"
+    },
+    {
+      "memberId": 41,
+      "name": "Deepak Sharma",
+      "email": "deepak.sharma41@gmail.com",
+      "phone": "9812345641",
+      "address": "61 Lake View, Delhi",
+      "memberShipType": "faculty",
+      "activeStatus": true,
+      "profileImage": "https://randomuser.me/api/portraits/men/41.jpg",
+      "id": "m41"
+    },
+    {
+      "memberId": 42,
+      "name": "Sonia Mehta",
+      "email": "sonia.mehta42@gmail.com",
+      "phone": "9723456742",
+      "address": "19 Orchid Residency, Chandigarh",
+      "memberShipType": "public",
+      "activeStatus": false,
+      "profileImage": "https://randomuser.me/api/portraits/women/42.jpg",
+      "id": "m42"
+    },
+    {
+      "memberId": 43,
+      "name": "Kunal Verma",
+      "email": "kunal.verma43@gmail.com",
+      "phone": "9623456743",
+      "address": "82 Harmony Towers, Jaipur",
+      "memberShipType": "student",
+      "activeStatus": true,
+      "profileImage": "https://randomuser.me/api/portraits/men/43.jpg",
+      "id": "m43"
+    },
+    {
+      "memberId": 44,
+      "name": "Aarti Chauhan",
+      "email": "aarti.chauhan44@gmail.com",
+      "phone": "9523456744",
+      "address": "29 Galaxy Plaza, Lucknow",
+      "memberShipType": "faculty",
+      "activeStatus": true,
+      "profileImage": "https://randomuser.me/api/portraits/women/44.jpg",
+      "id": "m44"
+    },
+    {
+      "memberId": 45,
+      "name": "Ramesh Yadav",
+      "email": "ramesh.yadav45@gmail.com",
+      "phone": "9423456745",
+      "address": "57 Central Park, Patna",
+      "memberShipType": "public",
+      "activeStatus": true,
+      "profileImage": "https://randomuser.me/api/portraits/men/45.jpg",
+      "id": "m45"
+    },
+    {
+      "memberId": 46,
+      "name": "Mitali Joshi",
+      "email": "mitali.joshi46@gmail.com",
+      "phone": "9323456746",
+      "address": "90 Elite Residency, Pune",
+      "memberShipType": "student",
+      "activeStatus": false,
+      "profileImage": "https://randomuser.me/api/portraits/women/46.jpg",
+      "id": "m46"
+    },
+    {
+      "memberId": 47,
+      "name": "Naveen Batra",
+      "email": "naveen.batra47@gmail.com",
+      "phone": "9223456747",
+      "address": "11 Green Park, Indore",
+      "memberShipType": "faculty",
+      "activeStatus": true,
+      "profileImage": "https://randomuser.me/api/portraits/men/47.jpg",
+      "id": "m47"
+    },
+    {
+      "memberId": 48,
+      "name": "Shalini Kapoor",
+      "email": "shalini.kapoor48@gmail.com",
+      "phone": "9123456748",
+      "address": "22 Blossom Heights, Bhopal",
+      "memberShipType": "public",
+      "activeStatus": true,
+      "profileImage": "https://randomuser.me/api/portraits/women/48.jpg",
+      "id": "m48"
+    },
+    {
+      "memberId": 49,
+      "name": "Vivek Anand",
+      "email": "vivek.anand49@gmail.com",
+      "phone": "9023456749",
+      "address": "64 Royal Villa, Gurugram",
+      "memberShipType": "student",
+      "activeStatus": true,
+      "profileImage": "https://randomuser.me/api/portraits/men/49.jpg",
+      "id": "m49"
+    },
+    {
+      "memberId": 50,
+      "name": "Poonam Desai",
+      "email": "poonam.desai50@gmail.com",
+      "phone": "8923456750",
+      "address": "38 Lotus Greens, Surat",
+      "memberShipType": "faculty",
+      "activeStatus": true,
+      "profileImage": "https://randomuser.me/api/portraits/women/50.jpg",
+      "id": "m50"
+    },
+    {
+      "id": 1757305115341,
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "photo": "",
+      "phone": "",
+      "address": "",
+      "role": "admin"
+    },
+    {
+      "id": 1757305269112,
+      "name": "AMRITPAL BHINDER",
+      "email": "8572amritpalsingh@gmail.com",
+      "photo": "https://lh3.googleusercontent.com/a/ACg8ocIqd46ams3J2HAuZDy8_CTgc4HUnXCxpEfBO4dcRQN2bbXtbA=s96-c",
+      "phone": "",
+      "address": "",
+      "role": "user"
+    },
+    {
+      "id": 1757307735986,
+      "name": "Borad Priya",
+      "email": "pp13120@gmail.com",
+      "photo": "https://lh3.googleusercontent.com/a/ACg8ocJzGnvA9pKRWG2f8aCpMy577rWqGhAEAc5W_bJ0Zzb9N2iueg=s96-c",
+      "phone": "",
+      "address": "",
+      "role": "user"
+    },
+    {
+      "id": 1757397553750,
+      "name": "admin123",
+      "email": "admin123@gmail.com",
+      "photo": "",
+      "phone": "",
+      "address": "",
+      "role": "user"
+    }
+  ],
+  "fines": [
+    {
+      "id": "1",
+      "title": "om"
+    }
+  ],
+  "issue": [
+    {
+      "id": "1",
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "borrowDate": "2025-08-20",
+      "dueDate": "2025-09-05",
+      "returned": false,
+      "userId": 1
+    },
+    {
+      "id": "2",
+      "title": "1984",
+      "author": "George Orwell",
+      "borrowDate": "2025-08-25",
+      "dueDate": "2025-09-10",
+      "returned": false,
+      "userId": 2
+    },
+    {
+      "id": "3",
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "borrowDate": "2025-07-15",
+      "dueDate": "2025-07-30",
+      "returned": true,
+      "userId": 35
+    }
+  ],
+  "reservations": [
+    {
+      "id": "ihjdd"
+    },
+    {
+      "id": "ihjdd"
+    },
+    {
+      "id": "ihjdd"
+    },
+    {
+      "id": "ihjdd"
+    },
+    {
+      "id": "ihjdd"
+    }
+  ]
+}

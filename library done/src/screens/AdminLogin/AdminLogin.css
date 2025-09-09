@@ -1,0 +1,160 @@
+.card2{
+  background: #7d5a08; 
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  width: 40%;
+  margin: auto;
+  margin-top: 6%;
+  text-align: center;
+  height: 380px;
+ 
+}
+
+.card2 h3 {
+  margin-bottom: 20px;
+  font-size: 32px;
+  color: #fbfbfb; 
+  padding: 20px;
+}
+
+form input {
+  display: block;
+  width: 90%;
+  padding: 12px 14px;
+  margin-bottom: 15px;
+  border: 1px solid rgb(200, 154, 64);
+  border-radius: 8px;
+  font-size: 15px;
+ margin-left: 5%;
+ margin-top: 3%;
+}
+
+form input:focus {
+  border-color: #7d5a08;
+  box-shadow: 0 0 5px rgba(125, 90, 8, 0.4);
+}
+
+.button {
+  background: rgb(215, 220, 163);
+  color: #7d5a08;
+  font-weight:500;
+  border: none;
+  padding: 12px 20px;
+  border-radius: 8px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: 0.3s ease;
+  width: 90%;
+  margin-top: 3%;
+}
+
+.button:hover {
+  background: #936d13;
+  color: rgb(215, 220, 163);
+}
+
+.small {
+  font-size: 14px;
+  color: #ffffff;
+  margin-top: 10px;
+}
+
+.login-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 91vh;
+    background: #936d13;
+}
+
+.login-card {
+    background-color: rgb(215, 220, 163); 
+  padding: 40px 30px;
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  width: 450px;
+  text-align: center;
+  height: 500px;
+}
+
+.login-title {
+  margin-bottom: 25px;
+  font-size: 40px;
+  color: #7d5a08;
+}
+
+.login-form input {
+  width: 100%;
+  padding: 1  px;
+  margin-left: 2px;
+  margin-bottom: 35px;
+  border: 3px solid #b07a04;
+  border-radius: 6px;
+  font-size: 14px;
+}
+
+.login-btn {
+  width: 100%;
+  padding: 12px;
+  background-color: #7d5a08;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  font-size: 16px;
+  cursor: pointer;
+  margin-bottom: 7px;
+}
+
+.login-btn:hover {
+ background-color: #897b01 !important;
+}
+
+.error-text {
+  color: red;
+  margin-top: -10px;
+  margin-bottom: 10px;
+  font-size: 13px;
+}
+
+.divider {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  margin: 15px 42%;
+  width: 15%
+}
+
+.divider span {
+  flex: 1;
+  border-bottom: 1px solid #7d5a08;
+  margin: 0 10px;
+  color: #fffdfd;
+  border-radius: 50%;
+  padding: 5px;
+  
+}
+
+.google-btn {
+  width: 100%;
+  padding: 12px;
+  background: #7d5a08;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  font-size: 16px;
+  margin-top: 7%;
+}
+
+.google-btn:hover {
+   background-color: #897b01 !important;
+}
+
+.google {
+  width: 20px;
+  margin-right: 8px;
+}

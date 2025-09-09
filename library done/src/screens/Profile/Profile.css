@@ -1,0 +1,166 @@
+/* ---- Page layout ---- */
+.profile-page {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 90vh;
+  background: linear-gradient(135deg, rgb(215, 220, 163));
+  font-family: "Poppins", sans-serif;
+  padding: 20px;
+  color: white;
+}
+
+/* ---- Profile Card ---- */
+.profile-card {
+  background: #7d5a08;
+  border-radius: 16px;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
+  padding: 40px 30px;
+  max-width: 420px;
+  width: 100%;
+  transition: all 0.3s ease-in-out;
+}
+
+/* ---- Hover Effect ---- */
+.profile-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.15);
+}
+
+/* ---- Avatar Initials ---- */
+.profile-initials {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  background: #584d32;
+  color: #fff6f6;
+  font-size: 40px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto 20px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  border: 4px solid #ede6e2;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+/* ---- Name ---- */
+.profile-card h2 {
+  font-size: 24px;
+  font-weight: 700;
+  color: #e1ded9;
+  margin-bottom: 25px;
+  text-align: center;
+}
+
+/* ---- Profile Details (Aligned like a form) ---- */
+.profile-info {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  text-align: left;
+  margin-top: 10px;
+}
+
+.profile-info-item {
+  margin-bottom: 18px;
+  width: 100%;
+}
+
+/* ---- Label Styling ---- */
+.profile-info-item label {
+  display: block;
+  font-weight: 600;
+  color: #fff;
+  font-size: 15px;
+  margin-bottom: 6px;
+  padding-left: 2px;
+}
+
+.profile-info-item span {
+  display: inline-block;
+  font-size: 16px;
+  color: #f0f0f0;
+}
+
+/* ---- Edit Profile Button ---- */
+.profile-card button,
+.profile-card .edit-btn {
+  margin-top: 25px;
+  padding: 12px 20px;
+  font-size: 15px;
+  font-weight: 600;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  background: #fff;
+  color: #7d5a08;
+  transition: background 0.3s, transform 0.2s;
+  text-decoration: none;
+}
+
+.profile-card button:hover,
+.profile-card .edit-btn:hover {
+  background: #f1f1f1;
+  transform: scale(1.05);
+}
+
+/* ---- Responsive ---- */
+@media (max-width: 500px) {
+  .profile-card {
+    padding: 30px 20px;
+  }
+
+  .profile-initials {
+    width: 100px;
+    height: 100px;
+    font-size: 34px;
+  }
+
+  .profile-card h2 {
+    font-size: 20px;
+  }
+}
+
+/* ---- Edit Mode Input Styling ---- */
+.profile-card input[type="text"],
+.profile-card input[type="file"] {
+  width: 100%;
+  padding: 12px 14px;
+  margin-top: 5px;
+  border: none;
+  border-radius: 8px;
+  outline: none;
+  font-size: 16px;
+  background: #fff;
+  color: #333;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease-in-out;
+}
+
+.profile-card input[type="text"]:focus,
+.profile-card input[type="file"]:focus {
+  box-shadow: 0 0 0 2px #edbb45;
+}
+
+/* ---- Save Button Styling ---- */
+.profile-card .save-btn {
+  display: inline-block;
+  margin-top: 10px;
+  padding: 12px 25px;
+  background-color: #fff;
+  color: #7d5a08;
+  font-size: 16px;
+  font-weight: 600;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+}
+
+.profile-card .save-btn:hover {
+  background-color: #f4f1ec;
+  transform: scale(1.05);
+}

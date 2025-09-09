@@ -1,0 +1,366 @@
+
+/* Background */
+.dashboard {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  padding: 24px;
+  background: linear-gradient(to bottom right, #f0fdf4, #f0f9ff);
+  font-family: "Segoe UI", sans-serif;
+}
+
+/* Container */
+.dashboard-container {
+  background: rgb(255, 255, 255);
+  width: 100%;
+ 
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+  padding: 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+}
+
+/* Hero */
+.hero {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: linear-gradient(to right, #cd9805, #150e02);
+  border-radius: 16px;
+  padding: 24px;
+  height: 350px;
+}
+
+.hero-text h2 {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 16px;
+}
+
+.browse-btn {
+  background: #8e6308;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+.browse-btn:hover {
+  background: #443005;
+}
+
+.hero-icon {
+  font-size: 64px;
+}
+
+/* Section Titles */
+.section h3 {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 12px;
+}
+
+/* Books Row */
+.books-row {
+  display: flex;
+  gap: 16px;
+  overflow-x: auto;
+  padding-bottom: 8px;
+}
+
+.book-card {
+  flex-shrink: 0;
+  width: 150px;
+  height: 220px;
+  border-radius: 12px;
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.book-card h4 {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.book-card .author {
+  font-size: 12px;
+  color: #444;
+}
+
+.book-card button {
+  background: transparent;
+  border: none;
+  color: #2563eb;
+  cursor: pointer;
+  font-size: 13px;
+  text-align: left;
+  padding: 0;
+}
+
+.book-card.green {
+  background: #d1fae5;
+}
+.book-card.yellow {
+  background: #fef9c3;
+}
+.book-card.red {
+  background: #fecaca;
+}
+.book-card.pink {
+  background: #fbcfe8;
+}
+
+/* Categories */
+.categories {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 16px;
+}
+
+.category {
+  border-radius: 12px;
+  padding: 20px;
+  text-align: center;
+  font-weight: 500;
+  font-size: 15px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+.category p {
+  margin-top: 8px;
+}
+
+.category.yellow {
+  background: #fef3c7;
+}
+.category.teal {
+  background: #ccfbf1;
+}
+.category.orange {
+  background: #fed7aa;
+}
+.category.blue {
+  background: #bfdbfe;
+}
+/* Slider container */
+.slider-container {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+/* Books row (carousel style) */
+.books-row {
+  display: flex;
+  gap: 20px;
+  overflow-x: auto;
+  scroll-behavior: smooth;
+  padding: 15px 0;
+}
+.books-row::-webkit-scrollbar {
+  display: none;
+}
+
+/* Slider navigation buttons */
+.slider-btn {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: rgba(0,0,0,0.6);
+  color: white;
+  border: none;
+  font-size: 22px;
+  padding: 10px 15px;
+  border-radius: 50%;
+  cursor: pointer;
+  z-index: 10;
+  transition: 0.3s;
+}
+.slider-btn:hover {
+  background: rgba(0,0,0,0.9);
+}
+.slider-btn.left {
+  left: -15px;
+}
+.slider-btn.right {
+  right: -15px;
+}
+
+/* Book card unique look */
+.book-card.unique {
+  min-width: 200px;
+  background: linear-gradient(135deg, #fdfbfb, #ebedee);
+  border-radius: 14px;
+  padding: 12px;
+  flex: 0 0 auto;
+  text-align: center;
+  box-shadow: 0 6px 14px rgba(0,0,0,0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  cursor: pointer;
+}
+.book-card.unique:hover {
+  transform: scale(1.05);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+}
+
+/* Book cover with hover overlay */
+.cover-wrapper {
+  position: relative;
+  overflow: hidden;
+  border-radius: 10px;
+}
+.book-cover {
+  width: 100%;
+  height: 240px;
+  object-fit: cover;
+  border-radius: 10px;
+  transition: transform 0.4s ease;
+}
+.cover-wrapper:hover .book-cover {
+  transform: scale(1.1);
+}
+
+/* Overlay for quick view */
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0,0,0,0.5);
+  opacity: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: opacity 0.4s;
+}
+.cover-wrapper:hover .overlay {
+  opacity: 1;
+}
+.quick-view {
+  background: #ffcb05;
+  color: #222;
+  border: none;
+  padding: 8px 14px;
+  border-radius: 6px;
+  font-weight: bold;
+  cursor: pointer;
+}
+.quick-view:hover {
+  background: #ffb300;
+}
+.coverflow-slider {
+  position: relative;
+  width: 100%;
+  height: 450px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  background: #f7f9fc;
+  border-radius: 18px;
+}
+
+.coverflow-container {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.slide {
+  position: absolute;
+  opacity: 0;
+  transition: all 0.6s ease-in-out;
+  transform: scale(0.7);
+  filter: blur(4px);
+  text-align: center;
+  pointer-events: none;
+}
+
+.slide img {
+  width: 220px;
+  height: 320px;
+  border-radius: 14px;
+  object-fit: cover;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.25);
+}
+
+.activeSlide {
+  opacity: 1;
+  transform: scale(1) translateX(0);
+  filter: blur(0);
+  z-index: 3;
+  pointer-events: auto;
+}
+
+.lastSlide {
+  opacity: 0.6;
+  transform: scale(0.85) translateX(-260px); /* left side me jagah */
+  z-index: 2;
+}
+
+.nextSlide {
+  opacity: 0.6;
+  transform: scale(0.85) translateX(260px); /* right side me jagah */
+  z-index: 2;
+}
+
+/* Extra background depth: far left & far right */
+.lastSlide::after,
+.nextSlide::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: 14px;
+  background: rgba(0,0,0,0.2);
+  pointer-events: none;
+}
+
+.slide h4 {
+  margin-top: 10px;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.slide p {
+  font-size: 14px;
+  color: #555;
+}
+
+.nav-btn {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: linear-gradient(135deg, #007bff, #0056d2);
+  border: none;
+  color: white;
+  font-size: 26px;
+  border-radius: 50%;
+  padding: 12px;
+  cursor: pointer;
+  z-index: 5;
+  transition: 0.3s;
+}
+.nav-btn:hover {
+  transform: translateY(-50%) scale(1.1);
+  background: linear-gradient(135deg, #0056d2, #003f99);
+}
+
+.left {
+  left: 20px;
+}
+.right {
+  right: 20px;
+}
